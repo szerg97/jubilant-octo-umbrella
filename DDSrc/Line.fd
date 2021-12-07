@@ -1,0 +1,4 @@
+#REPLACE FILE2 Line
+#REPLACE Line.Recnum |FN2,0
+#REPLACE Line.id |FN2,1
+#REPLACE Line.type |FS2,2

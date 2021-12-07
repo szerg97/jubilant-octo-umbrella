@@ -1,0 +1,34 @@
+Use DataDict.pkg
+
+Open Employee
+Open PageHeader
+Open system
+
+Register_Object Employee_sl
+
+Class cEmployeeDataDictionary is a DataDictionary
+    
+    Procedure Construct_Object
+        Forward Send Construct_Object
+        Set Main_File to Employee.File_Number
+
+        Set Add_System_File to system.File_Number DD_Lock_On_All
+
+        Set Add_Client_File to PageHeader.File_Number
+
+        Set Foreign_Field_Option DD_KEYFIELD DD_NOPUT to True
+        Set Foreign_Field_Option DD_KEYFIELD DD_FINDREQ to True
+        Set Foreign_Field_Option DD_INDEXFIELD DD_NOPUT to True
+        Set Foreign_Field_Option DD_DEFAULT DD_DISPLAYONLY to True
+
+        Set Field_Auto_Increment Field Employee.id to File_Field system.employee_id
+        Set Field_Prompt_Object Field Employee.id to Employee_sl
+
+    End_Procedure
+
+End_Class
+
+#IFDEF Is$WebApp
+#ELSE
+Use Employee.sl
+#ENDIF

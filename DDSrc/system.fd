@@ -1,0 +1,7 @@
+#REPLACE FILE4 system
+#REPLACE system.Recnum |FN4,0
+#REPLACE system.employee_id |FN4,1
+#REPLACE system.line_id |FN4,2
+#REPLACE system.page_header_id |FN4,3
+#REPLACE system.shoe_id |FN4,4
+#REPLACE system.page_footer_id |FN4,5

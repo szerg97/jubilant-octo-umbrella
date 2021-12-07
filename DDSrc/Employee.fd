@@ -1,0 +1,5 @@
+#REPLACE FILE1 Employee
+#REPLACE Employee.Recnum |FN1,0
+#REPLACE Employee.id |FN1,1
+#REPLACE Employee.name |FS1,2
+#REPLACE Employee.id_card |FS1,3

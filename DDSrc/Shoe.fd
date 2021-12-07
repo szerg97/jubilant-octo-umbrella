@@ -1,0 +1,5 @@
+#REPLACE FILE5 Shoe
+#REPLACE Shoe.Recnum |FN5,0
+#REPLACE Shoe.id |FN5,1
+#REPLACE Shoe.name |FS5,2
+#REPLACE Shoe.price |FN5,3

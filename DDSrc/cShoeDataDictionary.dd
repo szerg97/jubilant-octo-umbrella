@@ -1,0 +1,38 @@
+Use DataDict.pkg
+
+Open Shoe
+Open system
+Open PageFooter
+
+Register_Object Shoe_sl
+
+Class cShoeDataDictionary is a DataDictionary
+    
+    Procedure Construct_Object
+        Forward Send Construct_Object
+        Set Main_File to Shoe.File_Number
+
+        Set Add_Client_File to PageFooter.File_Number
+
+        Set Add_System_File to system.File_Number DD_Lock_On_All
+
+        Set Foreign_Field_Option DD_KEYFIELD DD_NOPUT to True
+        Set Foreign_Field_Option DD_KEYFIELD DD_FINDREQ to True
+        Set Foreign_Field_Option DD_INDEXFIELD DD_NOPUT to True
+        Set Foreign_Field_Option DD_DEFAULT DD_DISPLAYONLY to True
+
+        Set Field_Auto_Increment Field Shoe.id to File_Field system.shoe_id
+        Set Field_Prompt_Object Field Shoe.id to Shoe_sl
+
+        Set Field_Prompt_Object Field Shoe.name to Shoe_sl
+
+        Set Field_Prompt_Object Field Shoe.price to Shoe_sl
+
+    End_Procedure
+
+End_Class
+
+#IFDEF Is$WebApp
+#ELSE
+Use Shoe.sl
+#ENDIF

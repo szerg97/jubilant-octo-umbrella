@@ -1,0 +1,30 @@
+[Workspace]
+CurrentProject=Application.src
+Location=C:\DataFlex Projects\ShoeFactory\IdeSrc\szerg_Studio.dsk
+CreateNew=2
+[TabWindows]
+GroupCount=1
+HorizontalGroups=0
+[TabGroup0]
+GroupSize=40
+SelectedTab=1
+[Window0]
+Filename=Shoe
+ViewType=4
+Top=21
+Left=0
+Bottom=723
+Right=1424
+TabIndex=0
+TabGroup=0
+[Window1]
+Filename=C:\DataFlex Projects\ShoeFactory\AppSrc\EmpEntry.vw
+ViewType=1
+Top=21
+Left=0
+Bottom=723
+Right=1424
+CursorLine=72
+CursorColumn=25
+TabIndex=1
+TabGroup=0

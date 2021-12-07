@@ -1,0 +1,47 @@
+Use DataDict.pkg
+
+Open Line
+Open PageHeader
+Open system
+
+Object oTypeValid is a DescriptionValidationTable
+    Procedure Fill_List
+        Forward Send Fill_List
+        Send Add_Table_Value "Type A" "Type A"
+        Send Add_Table_Value "Type B" "Type B"
+        Send Add_Table_Value "Type C" "Type C"
+        Send Add_Table_Value "Type D" "Type D"
+        Send Add_Table_Value "Type E" "Type E"
+    End_Procedure
+End_Object
+
+Register_Object Line_sl
+
+Class cLineDataDictionary is a DataDictionary
+    
+    Procedure Construct_Object
+        Forward Send Construct_Object
+        Set Main_File to Line.File_Number
+
+        Set Add_System_File to system.File_Number DD_Lock_On_All
+
+        Set Add_Client_File to PageHeader.File_Number
+
+        Set Foreign_Field_Option DD_KEYFIELD DD_NOPUT to True
+        Set Foreign_Field_Option DD_KEYFIELD DD_FINDREQ to True
+        Set Foreign_Field_Option DD_INDEXFIELD DD_NOPUT to True
+        Set Foreign_Field_Option DD_DEFAULT DD_DISPLAYONLY to True
+
+        Set Field_Auto_Increment Field Line.id to File_Field system.line_id
+        Set Field_Prompt_Object Field Line.id to Line_sl
+
+        Set Field_Value_Table Field Line.type to oTypeValid
+
+    End_Procedure
+
+End_Class
+
+#IFDEF Is$WebApp
+#ELSE
+Use Line.sl
+#ENDIF

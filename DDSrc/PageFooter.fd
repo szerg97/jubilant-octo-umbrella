@@ -1,0 +1,5 @@
+#REPLACE FILE6 PageFooter
+#REPLACE PageFooter.Recnum |FN6,0
+#REPLACE PageFooter.id |FN6,1
+#REPLACE PageFooter.page_header_id |FN6,2
+#REPLACE PageFooter.shoe_id |FN6,3

@@ -1,0 +1,5 @@
+#REPLACE FILE3 PageHeader
+#REPLACE PageHeader.Recnum |FN3,0
+#REPLACE PageHeader.id |FN3,1
+#REPLACE PageHeader.employee_id |FN3,2
+#REPLACE PageHeader.line_id |FN3,3

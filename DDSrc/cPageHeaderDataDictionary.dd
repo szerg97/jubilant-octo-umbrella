@@ -1,0 +1,39 @@
+Use DataDict.pkg
+
+Open PageHeader
+Open Employee
+Open Line
+Open system
+Open PageFooter
+
+Register_Object PageHeader_sl
+
+Class cPageHeaderDataDictionary is a DataDictionary
+    
+    Procedure Construct_Object
+        Forward Send Construct_Object
+        Set Main_File to PageHeader.File_Number
+
+        Set Add_Client_File to PageFooter.File_Number
+
+        Set Add_System_File to system.File_Number DD_Lock_On_All
+
+        Set Add_Server_File to Employee.File_Number
+        Set Add_Server_File to Line.File_Number
+
+        Set Foreign_Field_Option DD_KEYFIELD DD_NOPUT to True
+        Set Foreign_Field_Option DD_KEYFIELD DD_FINDREQ to True
+        Set Foreign_Field_Option DD_INDEXFIELD DD_NOPUT to True
+        Set Foreign_Field_Option DD_DEFAULT DD_DISPLAYONLY to True
+
+        Set Field_Auto_Increment Field PageHeader.id to File_Field system.page_header_id
+        Set Field_Prompt_Object Field PageHeader.id to PageHeader_sl
+
+    End_Procedure
+
+End_Class
+
+#IFDEF Is$WebApp
+#ELSE
+Use PageHeader.sl
+#ENDIF
