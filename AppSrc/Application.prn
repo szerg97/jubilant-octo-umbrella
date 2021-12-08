@@ -1,4 +1,4 @@
-Compiling Program: C:\DataFlex Projects\ShoeFactory\AppSrc\Application.src
+Compiling Program: C:\Users\bades\Documents\GitHub\jubilant-octo-umbrella\AppSrc\Application.src
 Memory Available: 2147483646
 1>Use DFAllEnt.pkg
 Using pre-compiled package DFALLENT.PKG
@@ -1285,7 +1285,7 @@ Including file: CryptographerConstants.pkg    (C:\Program Files (x86)\DataFlex 1
 68131>>>    //
 68131>>>    // Set psEncryptPassword to "JchUAo7W@r.b{<Yk~OONi0nq=sMi[*Rn[A-`Vo)q"
 68131>>>    //  
-Including file: LoginEncryptionKey.inc    (C:\DataFlex Projects\ShoeFactory\AppSrc\LoginEncryptionKey.inc)
+Including file: LoginEncryptionKey.inc    (C:\Users\bades\Documents\GitHub\jubilant-octo-umbrella\AppSrc\LoginEncryptionKey.inc)
 68131>>>>// Studio generated login encryption key
 68131>>>>Set psEncryptPassword to "rHn+igXUe(,,M<?dkNtebWQJ$w>FT\9<FI)(MsQz"
 68132>>>>
@@ -3282,7 +3282,7 @@ Including file: MSSqldrv.pkg    (C:\Program Files (x86)\DataFlex 19.1\Pkg\MSSqld
 69526>>>End_Procedure
 69527>>>
 69527>        Use EmpEntry.vw
-Including file: EmpEntry.vw    (C:\DataFlex Projects\ShoeFactory\AppSrc\EmpEntry.vw)
+Including file: EmpEntry.vw    (C:\Users\bades\Documents\GitHub\jubilant-octo-umbrella\AppSrc\EmpEntry.vw)
 69527>>>// C:\DataFlex Projects\ShoeFactory\AppSrc\EmpEntry.vw
 69527>>>// EmpEntry
 69527>>>//
@@ -3291,15 +3291,15 @@ Including file: EmpEntry.vw    (C:\DataFlex Projects\ShoeFactory\AppSrc\EmpEntry
 69527>>>Use DFEntry.pkg
 69527>>>
 69527>>>Use cEmployeeDataDictionary.dd
-Including file: cEmployeeDataDictionary.dd    (C:\DataFlex Projects\ShoeFactory\DDSrc\cEmployeeDataDictionary.dd)
+Including file: cEmployeeDataDictionary.dd    (C:\Users\bades\Documents\GitHub\jubilant-octo-umbrella\DDSrc\cEmployeeDataDictionary.dd)
 69527>>>>>Use DataDict.pkg
 69527>>>>>
 69527>>>>>Open Employee
-Including file: Employee.fd    (C:\DataFlex Projects\ShoeFactory\DDSrc\Employee.fd)
+Including file: Employee.fd    (C:\Users\bades\Documents\GitHub\jubilant-octo-umbrella\DDSrc\Employee.fd)
 69529>>>>>Open PageHeader
-Including file: PageHeader.fd    (C:\DataFlex Projects\ShoeFactory\DDSrc\PageHeader.fd)
+Including file: PageHeader.fd    (C:\Users\bades\Documents\GitHub\jubilant-octo-umbrella\DDSrc\PageHeader.fd)
 69531>>>>>Open system
-Including file: system.fd    (C:\DataFlex Projects\ShoeFactory\DDSrc\system.fd)
+Including file: system.fd    (C:\Users\bades\Documents\GitHub\jubilant-octo-umbrella\DDSrc\system.fd)
 69533>>>>>
 69533>>>>>Register_Object Employee_sl
 69533>>>>>
@@ -3326,7 +3326,7 @@ Including file: system.fd    (C:\DataFlex Projects\ShoeFactory\DDSrc\system.fd)
 69548>>>>>End_Class
 69549>>>>>
 69549>>>>>Use Employee.sl
-Including file: Employee.sl    (C:\DataFlex Projects\ShoeFactory\AppSrc\Employee.sl)
+Including file: Employee.sl    (C:\Users\bades\Documents\GitHub\jubilant-octo-umbrella\AppSrc\Employee.sl)
 69549>>>>>>>// Employee.sl
 69549>>>>>>>// Employee Lookup List
 69549>>>>>>>
@@ -3514,7 +3514,7 @@ Including file: Employee.sl    (C:\DataFlex Projects\ShoeFactory\AppSrc\Employee
 69725>>>    
 69725>>>End_Object 
 69726>        Use LineEntry.vw
-Including file: LineEntry.vw    (C:\DataFlex Projects\ShoeFactory\AppSrc\LineEntry.vw)
+Including file: LineEntry.vw    (C:\Users\bades\Documents\GitHub\jubilant-octo-umbrella\AppSrc\LineEntry.vw)
 69726>>>// C:\DataFlex Projects\ShoeFactory\AppSrc\LineEntry.vw
 69726>>>// LineEntry
 69726>>>//
@@ -3523,11 +3523,11 @@ Including file: LineEntry.vw    (C:\DataFlex Projects\ShoeFactory\AppSrc\LineEnt
 69726>>>Use DFEntry.pkg
 69726>>>
 69726>>>Use cLineDataDictionary.dd
-Including file: cLineDataDictionary.dd    (C:\DataFlex Projects\ShoeFactory\DDSrc\cLineDataDictionary.dd)
+Including file: cLineDataDictionary.dd    (C:\Users\bades\Documents\GitHub\jubilant-octo-umbrella\DDSrc\cLineDataDictionary.dd)
 69726>>>>>Use DataDict.pkg
 69726>>>>>
 69726>>>>>Open Line
-Including file: Line.fd    (C:\DataFlex Projects\ShoeFactory\DDSrc\Line.fd)
+Including file: Line.fd    (C:\Users\bades\Documents\GitHub\jubilant-octo-umbrella\DDSrc\Line.fd)
 69728>>>>>Open PageHeader
 69730>>>>>Open system
 69732>>>>>
@@ -3569,7 +3569,7 @@ Including file: Line.fd    (C:\DataFlex Projects\ShoeFactory\DDSrc\Line.fd)
 69762>>>>>End_Class
 69763>>>>>
 69763>>>>>Use Line.sl
-Including file: Line.sl    (C:\DataFlex Projects\ShoeFactory\AppSrc\Line.sl)
+Including file: Line.sl    (C:\Users\bades\Documents\GitHub\jubilant-octo-umbrella\AppSrc\Line.sl)
 69763>>>>>>>// Line.sl
 69763>>>>>>>// Line Lookup List
 69763>>>>>>>
@@ -3703,18 +3703,19 @@ Including file: Line.sl    (C:\DataFlex Projects\ShoeFactory\AppSrc\Line.sl)
 69893>>>
 69893>>>End_Object 
 69894>        Use PageHeaderEntry.vw
-Including file: PageHeaderEntry.vw    (C:\DataFlex Projects\ShoeFactory\AppSrc\PageHeaderEntry.vw)
-69894>>>// C:\DataFlex Projects\ShoeFactory\AppSrc\PageHeaderEntry.vw
+Including file: PageHeaderEntry.vw    (C:\Users\bades\Documents\GitHub\jubilant-octo-umbrella\AppSrc\PageHeaderEntry.vw)
+69894>>>// C:\Users\bades\Documents\GitHub\jubilant-octo-umbrella\AppSrc\PageHeaderEntry.vw
 69894>>>// PageHeaderEntry
 69894>>>//
 69894>>>
 69894>>>Use DFClient.pkg
 69894>>>Use DFEntry.pkg
+69894>>>Use DfTabDlg.pkg
 69894>>>
 69894>>>Use cEmployeeDataDictionary.dd
 69894>>>Use cLineDataDictionary.dd
 69894>>>Use cPageHeaderDataDictionary.dd
-Including file: cPageHeaderDataDictionary.dd    (C:\DataFlex Projects\ShoeFactory\DDSrc\cPageHeaderDataDictionary.dd)
+Including file: cPageHeaderDataDictionary.dd    (C:\Users\bades\Documents\GitHub\jubilant-octo-umbrella\DDSrc\cPageHeaderDataDictionary.dd)
 69894>>>>>Use DataDict.pkg
 69894>>>>>
 69894>>>>>Open PageHeader
@@ -3722,7 +3723,7 @@ Including file: cPageHeaderDataDictionary.dd    (C:\DataFlex Projects\ShoeFactor
 69898>>>>>Open Line
 69900>>>>>Open system
 69902>>>>>Open PageFooter
-Including file: PageFooter.fd    (C:\DataFlex Projects\ShoeFactory\DDSrc\PageFooter.fd)
+Including file: PageFooter.fd    (C:\Users\bades\Documents\GitHub\jubilant-octo-umbrella\DDSrc\PageFooter.fd)
 69904>>>>>
 69904>>>>>Register_Object PageHeader_sl
 69904>>>>>
@@ -3748,746 +3749,1783 @@ Including file: PageFooter.fd    (C:\DataFlex Projects\ShoeFactory\DDSrc\PageFoo
 69919>>>>>        Set Field_Prompt_Object Field PageHeader.id to PageHeader_sl
 69920>>>>>
 69920>>>>>    End_Procedure
-69921>>>>>
-69921>>>>>End_Class
-69922>>>>>
-69922>>>>>Use PageHeader.sl
-Including file: PageHeader.sl    (C:\DataFlex Projects\ShoeFactory\AppSrc\PageHeader.sl)
-69922>>>>>>>// PageHeader.sl
-69922>>>>>>>// PageHeader Lookup List
-69922>>>>>>>
-69922>>>>>>>Use DFClient.pkg
-69922>>>>>>>Use cDbCJGridPromptList.pkg
-69922>>>>>>>Use cDbCJGridColumn.pkg
-69922>>>>>>>Use Windows.pkg
-69922>>>>>>>
-69922>>>>>>>Use cEmployeeDataDictionary.dd
-69922>>>>>>>Use cLineDataDictionary.dd
-69922>>>>>>>Use cPageHeaderDataDictionary.dd
-69922>>>>>>>
-69922>>>>>>>CD_Popup_Object PageHeader_sl is a dbModalPanel
-69940>>>>>>>>
-69940>>>>>>>    Set Location to 5 5
-69941>>>>>>>    Set Size to 134 126
-69942>>>>>>>    Set Label To "PageHeader Lookup List"
-69943>>>>>>>    Set Border_Style to Border_Thick
-69944>>>>>>>    Set Minimize_Icon to False
-69945>>>>>>>
-69945>>>>>>>
-69945>>>>>>>    Object oEmployee_DD is a cEmployeeDataDictionary
-69947>>>>>>>    End_Object 
-69948>>>>>>>
-69948>>>>>>>    Object oLine_DD is a cLineDataDictionary
-69950>>>>>>>    End_Object 
-69951>>>>>>>
-69951>>>>>>>    Object oPageHeader_DD is a cPageHeaderDataDictionary
-69953>>>>>>>        Set DDO_Server To oEmployee_DD
-69954>>>>>>>        Set DDO_Server To oLine_DD
-69955>>>>>>>    End_Object 
-69956>>>>>>>
-69956>>>>>>>    Set Main_DD To oPageHeader_DD
-69957>>>>>>>    Set Server  To oPageHeader_DD
+69921>>>>>    
+69921>>>>>    Procedure OnConstrain
+69923>>>>>        Constrain PageHeader.Date Between "2020/1/1" and "2023/1/1"
+69927>>>>>    End_Procedure
+69928>>>>>
+69928>>>>>End_Class
+69929>>>>>
+69929>>>>>Use PageHeader.sl
+Including file: PageHeader.sl    (C:\Users\bades\Documents\GitHub\jubilant-octo-umbrella\AppSrc\PageHeader.sl)
+69929>>>>>>>// PageHeader.sl
+69929>>>>>>>// PageHeader Lookup List
+69929>>>>>>>
+69929>>>>>>>Use DFClient.pkg
+69929>>>>>>>Use cDbCJGridPromptList.pkg
+69929>>>>>>>Use cDbCJGridColumn.pkg
+69929>>>>>>>Use Windows.pkg
+69929>>>>>>>
+69929>>>>>>>Use cEmployeeDataDictionary.dd
+69929>>>>>>>Use cLineDataDictionary.dd
+69929>>>>>>>Use cPageHeaderDataDictionary.dd
+69929>>>>>>>
+69929>>>>>>>CD_Popup_Object PageHeader_sl is a dbModalPanel
+69947>>>>>>>>
+69947>>>>>>>    Set Location to 5 5
+69948>>>>>>>    Set Size to 134 126
+69949>>>>>>>    Set Label To "PageHeader Lookup List"
+69950>>>>>>>    Set Border_Style to Border_Thick
+69951>>>>>>>    Set Minimize_Icon to False
+69952>>>>>>>
+69952>>>>>>>
+69952>>>>>>>    Object oEmployee_DD is a cEmployeeDataDictionary
+69954>>>>>>>    End_Object 
+69955>>>>>>>
+69955>>>>>>>    Object oLine_DD is a cLineDataDictionary
+69957>>>>>>>    End_Object 
 69958>>>>>>>
-69958>>>>>>>
-69958>>>>>>>
-69958>>>>>>>    Object oSelList is a cDbCJGridPromptList
-69960>>>>>>>        Set Size to 105 116
-69961>>>>>>>        Set Location to 5 5
-69962>>>>>>>        Set peAnchors to anAll
-69963>>>>>>>        Set psLayoutSection to "PageHeader_sl_oSelList"
-69964>>>>>>>        Set Ordering to 1
-69965>>>>>>>        Set pbAutoServer to True
-69966>>>>>>>
-69966>>>>>>>        Object oPageHeader_id is a cDbCJGridColumn
-69968>>>>>>>            Entry_Item PageHeader.id
-69969>>>>>>>            Set piWidth to 46
-69970>>>>>>>            Set psCaption to "id"
-69971>>>>>>>        End_Object 
-69972>>>>>>>
-69972>>>>>>>        Object oEmployee_id is a cDbCJGridColumn
-69974>>>>>>>            Entry_Item Employee.id
-69975>>>>>>>            Set piWidth to 81
-69976>>>>>>>            Set psCaption to "employee id"
-69977>>>>>>>        End_Object 
-69978>>>>>>>
-69978>>>>>>>        Object oLine_id is a cDbCJGridColumn
-69980>>>>>>>            Entry_Item Line.id
-69981>>>>>>>            Set piWidth to 48
-69982>>>>>>>            Set psCaption to "line id"
-69983>>>>>>>        End_Object 
-69984>>>>>>>
-69984>>>>>>>
-69984>>>>>>>    End_Object 
+69958>>>>>>>    Object oPageHeader_DD is a cPageHeaderDataDictionary
+69960>>>>>>>        Set DDO_Server To oEmployee_DD
+69961>>>>>>>        Set DDO_Server To oLine_DD
+69962>>>>>>>    End_Object 
+69963>>>>>>>
+69963>>>>>>>    Set Main_DD To oPageHeader_DD
+69964>>>>>>>    Set Server  To oPageHeader_DD
+69965>>>>>>>
+69965>>>>>>>
+69965>>>>>>>
+69965>>>>>>>    Object oSelList is a cDbCJGridPromptList
+69967>>>>>>>        Set Size to 105 116
+69968>>>>>>>        Set Location to 5 5
+69969>>>>>>>        Set peAnchors to anAll
+69970>>>>>>>        Set psLayoutSection to "PageHeader_sl_oSelList"
+69971>>>>>>>        Set Ordering to 1
+69972>>>>>>>        Set pbAutoServer to True
+69973>>>>>>>
+69973>>>>>>>        Object oPageHeader_id is a cDbCJGridColumn
+69975>>>>>>>            Entry_Item PageHeader.id
+69976>>>>>>>            Set piWidth to 46
+69977>>>>>>>            Set psCaption to "id"
+69978>>>>>>>        End_Object 
+69979>>>>>>>
+69979>>>>>>>        Object oEmployee_id is a cDbCJGridColumn
+69981>>>>>>>            Entry_Item Employee.id
+69982>>>>>>>            Set piWidth to 81
+69983>>>>>>>            Set psCaption to "employee id"
+69984>>>>>>>        End_Object 
 69985>>>>>>>
-69985>>>>>>>    Object oOk_bn is a Button
-69987>>>>>>>        Set Label to "&Ok"
-69988>>>>>>>        Set Location to 115 -37
-69989>>>>>>>        Set peAnchors to anBottomRight
-69990>>>>>>>
-69990>>>>>>>        Procedure OnClick
-69993>>>>>>>            Send OK of oSelList
-69994>>>>>>>        End_Procedure
-69995>>>>>>>
-69995>>>>>>>    End_Object 
-69996>>>>>>>
-69996>>>>>>>    Object oCancel_bn is a Button
-69998>>>>>>>        Set Label to "&Cancel"
-69999>>>>>>>        Set Location to 115 17
-70000>>>>>>>        Set peAnchors to anBottomRight
-70001>>>>>>>
-70001>>>>>>>        Procedure OnClick
-70004>>>>>>>            Send Cancel of oSelList
-70005>>>>>>>        End_Procedure
-70006>>>>>>>
-70006>>>>>>>    End_Object 
-70007>>>>>>>
-70007>>>>>>>    Object oSearch_bn is a Button
-70009>>>>>>>        Set Label to "&Search..."
-70010>>>>>>>        Set Location to 115 71
-70011>>>>>>>        Set peAnchors to anBottomRight
-70012>>>>>>>
-70012>>>>>>>        Procedure OnClick
-70015>>>>>>>            Send Search of oSelList
-70016>>>>>>>        End_Procedure
-70017>>>>>>>
-70017>>>>>>>    End_Object 
-70018>>>>>>>
-70018>>>>>>>    On_Key Key_Alt+Key_O Send KeyAction of oOk_bn
-70019>>>>>>>    On_Key Key_Alt+Key_C Send KeyAction of oCancel_bn
-70020>>>>>>>    On_Key Key_Alt+Key_S Send KeyAction of oSearch_bn
-70021>>>>>>>
-70021>>>>>>>
-70021>>>>>>>CD_End_Object // PageHeader_sl
-70023>>>>>>>>
-70023>>>
-70023>>>ACTIVATE_VIEW Activate_oPageHeaderEntry FOR oPageHeaderEntry
-70033>>>>
-70033>>>Object oPageHeaderEntry is a dbView
-70035>>>    Set Location to 5 5
-70036>>>    Set Size to 50 414
-70037>>>    Set Label To "PageHeaderEntry"
-70038>>>    Set Border_Style to Border_Thick
-70039>>>
-70039>>>
-70039>>>    Object oEmployee_DD is a cEmployeeDataDictionary
-70041>>>    End_Object 
-70042>>>
-70042>>>    Object oLine_DD is a cLineDataDictionary
-70044>>>    End_Object 
-70045>>>
-70045>>>    Object oPageHeader_DD is a cPageHeaderDataDictionary
-70047>>>        Set DDO_Server To oEmployee_DD
-70048>>>        Set DDO_Server To oLine_DD
-70049>>>    End_Object 
-70050>>>
-70050>>>    Set Main_DD To oPageHeader_DD
-70051>>>    Set Server  To oPageHeader_DD
-70052>>>
-70052>>>
-70052>>>
-70052>>>    Object oPageHeaderid is a dbForm
-70054>>>        Entry_Item PageHeader.id
-70055>>>        Set Size to 12 34
-70056>>>        Set Location to 5 34
-70057>>>        Set peAnchors to anTopLeftRight
-70058>>>        Set Label to "id"
-70059>>>        Set Label_Justification_mode to jMode_Left
-70060>>>        Set Label_Col_Offset to 29
-70061>>>        Set Label_row_Offset to 0
-70062>>>    End_Object 
-70063>>>
-70063>>>    Object oEmployeeid is a dbForm
-70065>>>        Entry_Item Employee.id
-70066>>>        Set Size to 12 34
-70067>>>        Set Location to 5 114
-70068>>>        Set peAnchors to anTopRight
-70069>>>        Set Label to "employee id"
-70070>>>        Set Label_Justification_mode to jMode_Left
-70071>>>        Set Label_Col_Offset to 41
-70072>>>        Set Label_row_Offset to 0
-70073>>>    End_Object 
-70074>>>
-70074>>>    Object oLineid is a dbForm
-70076>>>        Entry_Item Line.id
-70077>>>        Set Size to 12 34
-70078>>>        Set Location to 5 174
-70079>>>        Set peAnchors to anTopRight
-70080>>>        Set Label to "line id"
-70081>>>        Set Label_Justification_mode to jMode_Left
-70082>>>        Set Label_Col_Offset to 21
-70083>>>        Set Label_row_Offset to 0
-70084>>>    End_Object 
-70085>>>
-70085>>>    Object oEmployeename is a dbForm
-70087>>>        Entry_Item Employee.name
-70088>>>        Set Size to 12 250
-70089>>>        Set Location to 19 34
-70090>>>        Set peAnchors to anTopLeftRight
-70091>>>        Set Label to "name"
-70092>>>        Set Label_Justification_mode to jMode_Left
-70093>>>        Set Label_Col_Offset to 29
-70094>>>        Set Label_row_Offset to 0
-70095>>>    End_Object 
-70096>>>
-70096>>>    Object oEmployeeid_card is a dbForm
-70098>>>        Entry_Item Employee.id_card
-70099>>>        Set Size to 12 96
-70100>>>        Set Location to 19 313
-70101>>>        Set peAnchors to anTopRight
-70102>>>        Set Label to "id card"
-70103>>>        Set Label_Justification_mode to jMode_Left
-70104>>>        Set Label_Col_Offset to 24
-70105>>>        Set Label_row_Offset to 0
-70106>>>    End_Object 
-70107>>>
-70107>>>    Object oLinetype is a dbForm
-70109>>>        Entry_Item Line.type
-70110>>>        Set Size to 12 59
-70111>>>        Set Location to 33 34
-70112>>>        Set peAnchors to anTopLeftRight
-70113>>>        Set Label to "line type"
-70114>>>        Set Label_Justification_mode to jMode_Left
-70115>>>        Set Label_Col_Offset to 29
-70116>>>        Set Label_row_Offset to 0
-70117>>>    End_Object 
-70118>>>
-70118>>>
-70118>>>End_Object 
-70119>        Use ShoeEntry.vw
-Including file: ShoeEntry.vw    (C:\DataFlex Projects\ShoeFactory\AppSrc\ShoeEntry.vw)
-70119>>>// C:\DataFlex Projects\ShoeFactory\AppSrc\ShoeEntry.vw
-70119>>>// ShoeEntry
-70119>>>//
-70119>>>
-70119>>>Use DFClient.pkg
-70119>>>Use DFEntry.pkg
-70119>>>
-70119>>>Use cShoeDataDictionary.dd
-Including file: cShoeDataDictionary.dd    (C:\DataFlex Projects\ShoeFactory\DDSrc\cShoeDataDictionary.dd)
-70119>>>>>Use DataDict.pkg
-70119>>>>>
-70119>>>>>Open Shoe
-Including file: Shoe.fd    (C:\DataFlex Projects\ShoeFactory\DDSrc\Shoe.fd)
-70121>>>>>Open system
-70123>>>>>Open PageFooter
-70125>>>>>
-70125>>>>>Register_Object Shoe_sl
-70125>>>>>
-70125>>>>>Class cShoeDataDictionary is a DataDictionary
-70126>>>>>    
-70126>>>>>    Procedure Construct_Object
-70128>>>>>        Forward Send Construct_Object
-70130>>>>>        Set Main_File to Shoe.File_Number
-70131>>>>>
-70131>>>>>        Set Add_Client_File to PageFooter.File_Number
-70132>>>>>
-70132>>>>>        Set Add_System_File to system.File_Number DD_Lock_On_All
-70133>>>>>
-70133>>>>>        Set Foreign_Field_Option DD_KEYFIELD DD_NOPUT to True
-70134>>>>>        Set Foreign_Field_Option DD_KEYFIELD DD_FINDREQ to True
-70135>>>>>        Set Foreign_Field_Option DD_INDEXFIELD DD_NOPUT to True
-70136>>>>>        Set Foreign_Field_Option DD_DEFAULT DD_DISPLAYONLY to True
-70137>>>>>
-70137>>>>>        Set Field_Auto_Increment Field Shoe.id to File_Field system.shoe_id
-70138>>>>>        Set Field_Prompt_Object Field Shoe.id to Shoe_sl
-70139>>>>>
-70139>>>>>        Set Field_Prompt_Object Field Shoe.name to Shoe_sl
-70140>>>>>
-70140>>>>>        Set Field_Prompt_Object Field Shoe.price to Shoe_sl
-70141>>>>>
-70141>>>>>    End_Procedure
-70142>>>>>
-70142>>>>>End_Class
-70143>>>>>
-70143>>>>>Use Shoe.sl
-Including file: Shoe.sl    (C:\DataFlex Projects\ShoeFactory\AppSrc\Shoe.sl)
-70143>>>>>>>// Shoe.sl
-70143>>>>>>>// Shoe Lookup List
-70143>>>>>>>
-70143>>>>>>>Use DFClient.pkg
-70143>>>>>>>Use cDbCJGridPromptList.pkg
-70143>>>>>>>Use cDbCJGridColumn.pkg
-70143>>>>>>>Use Windows.pkg
-70143>>>>>>>
-70143>>>>>>>Use cShoeDataDictionary.dd
-70143>>>>>>>
-70143>>>>>>>CD_Popup_Object Shoe_sl is a dbModalPanel
-70161>>>>>>>>
-70161>>>>>>>    Set Location to 5 5
-70162>>>>>>>    Set Size to 134 272
-70163>>>>>>>    Set Label To "Shoe Lookup List"
-70164>>>>>>>    Set Border_Style to Border_Thick
-70165>>>>>>>    Set Minimize_Icon to False
-70166>>>>>>>
-70166>>>>>>>
-70166>>>>>>>    Object oShoe_DD is a cShoeDataDictionary
-70168>>>>>>>    End_Object 
-70169>>>>>>>
-70169>>>>>>>    Set Main_DD To oShoe_DD
-70170>>>>>>>    Set Server  To oShoe_DD
-70171>>>>>>>
-70171>>>>>>>
-70171>>>>>>>
-70171>>>>>>>    Object oSelList is a cDbCJGridPromptList
-70173>>>>>>>        Set Size to 105 262
-70174>>>>>>>        Set Location to 5 5
-70175>>>>>>>        Set peAnchors to anAll
-70176>>>>>>>        Set psLayoutSection to "Shoe_sl_oSelList"
-70177>>>>>>>        Set Ordering to 1
-70178>>>>>>>        Set pbAutoServer to True
-70179>>>>>>>
-70179>>>>>>>        Object oShoe_id is a cDbCJGridColumn
-70181>>>>>>>            Entry_Item Shoe.id
-70182>>>>>>>            Set piWidth to 60
-70183>>>>>>>            Set psCaption to "id"
-70184>>>>>>>        End_Object 
-70185>>>>>>>
-70185>>>>>>>        Object oShoe_name is a cDbCJGridColumn
-70187>>>>>>>            Entry_Item Shoe.name
-70188>>>>>>>            Set piWidth to 250
-70189>>>>>>>            Set psCaption to "name"
-70190>>>>>>>        End_Object 
-70191>>>>>>>
-70191>>>>>>>        Object oShoe_price is a cDbCJGridColumn
-70193>>>>>>>            Entry_Item Shoe.price
-70194>>>>>>>            Set piWidth to 110
-70195>>>>>>>            Set psCaption to "price"
-70196>>>>>>>        End_Object 
-70197>>>>>>>
-70197>>>>>>>
-70197>>>>>>>    End_Object 
-70198>>>>>>>
-70198>>>>>>>    Object oOk_bn is a Button
-70200>>>>>>>        Set Label to "&Ok"
-70201>>>>>>>        Set Location to 115 109
-70202>>>>>>>        Set peAnchors to anBottomRight
-70203>>>>>>>
-70203>>>>>>>        Procedure OnClick
-70206>>>>>>>            Send OK of oSelList
-70207>>>>>>>        End_Procedure
-70208>>>>>>>
-70208>>>>>>>    End_Object 
-70209>>>>>>>
-70209>>>>>>>    Object oCancel_bn is a Button
-70211>>>>>>>        Set Label to "&Cancel"
-70212>>>>>>>        Set Location to 115 163
-70213>>>>>>>        Set peAnchors to anBottomRight
-70214>>>>>>>
-70214>>>>>>>        Procedure OnClick
-70217>>>>>>>            Send Cancel of oSelList
-70218>>>>>>>        End_Procedure
-70219>>>>>>>
-70219>>>>>>>    End_Object 
-70220>>>>>>>
-70220>>>>>>>    Object oSearch_bn is a Button
-70222>>>>>>>        Set Label to "&Search..."
-70223>>>>>>>        Set Location to 115 217
-70224>>>>>>>        Set peAnchors to anBottomRight
-70225>>>>>>>
-70225>>>>>>>        Procedure OnClick
-70228>>>>>>>            Send Search of oSelList
-70229>>>>>>>        End_Procedure
-70230>>>>>>>
-70230>>>>>>>    End_Object 
-70231>>>>>>>
-70231>>>>>>>    On_Key Key_Alt+Key_O Send KeyAction of oOk_bn
-70232>>>>>>>    On_Key Key_Alt+Key_C Send KeyAction of oCancel_bn
-70233>>>>>>>    On_Key Key_Alt+Key_S Send KeyAction of oSearch_bn
-70234>>>>>>>
-70234>>>>>>>
-70234>>>>>>>CD_End_Object // Shoe_sl
-70236>>>>>>>>
-70236>>>
-70236>>>ACTIVATE_VIEW Activate_oShoeEntry FOR oShoeEntry
-70246>>>>
-70246>>>Object oShoeEntry is a dbView
-70248>>>    Set Location to 5 5
-70249>>>    Set Size to 22 430
-70250>>>    Set Label To "ShoeEntry"
-70251>>>    Set Border_Style to Border_Thick
-70252>>>
-70252>>>
-70252>>>    Object oShoe_DD is a cShoeDataDictionary
-70254>>>    End_Object 
-70255>>>
-70255>>>    Set Main_DD To oShoe_DD
-70256>>>    Set Server  To oShoe_DD
-70257>>>
-70257>>>
-70257>>>
-70257>>>    Object oShoeid is a dbForm
-70259>>>        Entry_Item Shoe.id
-70260>>>        Set Size to 12 42
-70261>>>        Set Location to 5 13
-70262>>>        Set peAnchors to anTopLeftRight
-70263>>>        Set Label to "id"
-70264>>>        Set Label_Justification_mode to jMode_Left
-70265>>>        Set Label_Col_Offset to 8
-70266>>>        Set Label_row_Offset to 0
-70267>>>    End_Object 
-70268>>>
-70268>>>    Object oShoename is a dbForm
-70270>>>        Entry_Item Shoe.name
-70271>>>        Set Size to 12 250
-70272>>>        Set Location to 5 80
-70273>>>        Set peAnchors to anTopRight
-70274>>>        Set Label to "name"
-70275>>>        Set Label_Justification_mode to jMode_Left
-70276>>>        Set Label_Col_Offset to 20
-70277>>>        Set Label_row_Offset to 0
-70278>>>    End_Object 
-70279>>>
-70279>>>    Object oShoeprice is a dbForm
-70281>>>        Entry_Item Shoe.price
-70282>>>        Set Size to 12 72
-70283>>>        Set Location to 5 353
-70284>>>        Set peAnchors to anTopRight
-70285>>>        Set Label to "price"
-70286>>>        Set Label_Justification_mode to jMode_Left
-70287>>>        Set Label_Col_Offset to 18
-70288>>>        Set Label_row_Offset to 0
-70289>>>    End_Object 
-70290>>>
-70290>>>
-70290>>>End_Object 
-70291>        Use PageFooterEntry.vw
-Including file: PageFooterEntry.vw    (C:\DataFlex Projects\ShoeFactory\AppSrc\PageFooterEntry.vw)
-70291>>>// C:\DataFlex Projects\ShoeFactory\AppSrc\PageFooterEntry.vw
-70291>>>// PageFooterEntry
-70291>>>//
-70291>>>
-70291>>>Use DFClient.pkg
-70291>>>Use DFEntry.pkg
-70291>>>Use DfTabDlg.pkg
-70291>>>
-70291>>>Use cEmployeeDataDictionary.dd
-70291>>>Use cLineDataDictionary.dd
-70291>>>Use cPageHeaderDataDictionary.dd
-70291>>>Use cShoeDataDictionary.dd
-70291>>>Use cPageFooterDataDictionary.dd
-Including file: cPageFooterDataDictionary.dd    (C:\DataFlex Projects\ShoeFactory\DDSrc\cPageFooterDataDictionary.dd)
-70291>>>>>Use DataDict.pkg
-70291>>>>>
-70291>>>>>Open PageFooter
-70293>>>>>Open PageHeader
-70295>>>>>Open Shoe
-70297>>>>>Open system
-70299>>>>>
-70299>>>>>Register_Object PageFooter_sl
-70299>>>>>
-70299>>>>>Class cPageFooterDataDictionary is a DataDictionary
-70300>>>>>    
-70300>>>>>    Procedure Construct_Object
-70302>>>>>        Forward Send Construct_Object
-70304>>>>>        Set Main_File to PageFooter.File_Number
-70305>>>>>
-70305>>>>>        Set Add_System_File to system.File_Number DD_Lock_On_All
-70306>>>>>
-70306>>>>>        Set Add_Server_File to PageHeader.File_Number
-70307>>>>>        Set Add_Server_File to Shoe.File_Number
-70308>>>>>
-70308>>>>>        Set Foreign_Field_Option DD_KEYFIELD DD_NOPUT to True
-70309>>>>>        Set Foreign_Field_Option DD_KEYFIELD DD_FINDREQ to True
-70310>>>>>        Set Foreign_Field_Option DD_INDEXFIELD DD_NOPUT to True
-70311>>>>>        Set Foreign_Field_Option DD_DEFAULT DD_DISPLAYONLY to True
-70312>>>>>
-70312>>>>>        Set Field_Auto_Increment Field PageFooter.id to File_Field system.page_footer_id
-70313>>>>>        Set Field_Prompt_Object Field PageFooter.id to PageFooter_sl
-70314>>>>>
-70314>>>>>    End_Procedure
-70315>>>>>
-70315>>>>>End_Class
-70316>>>>>
-70316>>>>>Use PageFooter.sl
-Including file: PageFooter.sl    (C:\DataFlex Projects\ShoeFactory\AppSrc\PageFooter.sl)
-70316>>>>>>>// PageFooter.sl
-70316>>>>>>>// PageFooter Lookup List
-70316>>>>>>>
-70316>>>>>>>Use DFClient.pkg
-70316>>>>>>>Use cDbCJGridPromptList.pkg
-70316>>>>>>>Use cDbCJGridColumn.pkg
-70316>>>>>>>Use Windows.pkg
-70316>>>>>>>
-70316>>>>>>>Use cEmployeeDataDictionary.dd
-70316>>>>>>>Use cLineDataDictionary.dd
-70316>>>>>>>Use cPageHeaderDataDictionary.dd
-70316>>>>>>>Use cShoeDataDictionary.dd
-70316>>>>>>>Use cPageFooterDataDictionary.dd
-70316>>>>>>>
-70316>>>>>>>CD_Popup_Object PageFooter_sl is a dbModalPanel
-70334>>>>>>>>
-70334>>>>>>>    Set Location to 5 5
-70335>>>>>>>    Set Size to 134 141
-70336>>>>>>>    Set Label To "PageFooter Lookup List"
-70337>>>>>>>    Set Border_Style to Border_Thick
-70338>>>>>>>    Set Minimize_Icon to False
-70339>>>>>>>
-70339>>>>>>>
-70339>>>>>>>    Object oEmployee_DD is a cEmployeeDataDictionary
-70341>>>>>>>    End_Object 
-70342>>>>>>>
-70342>>>>>>>    Object oLine_DD is a cLineDataDictionary
-70344>>>>>>>    End_Object 
-70345>>>>>>>
-70345>>>>>>>    Object oPageHeader_DD is a cPageHeaderDataDictionary
-70347>>>>>>>        Set DDO_Server To oEmployee_DD
-70348>>>>>>>        Set DDO_Server To oLine_DD
-70349>>>>>>>    End_Object 
-70350>>>>>>>
-70350>>>>>>>    Object oShoe_DD is a cShoeDataDictionary
-70352>>>>>>>    End_Object 
-70353>>>>>>>
-70353>>>>>>>    Object oPageFooter_DD is a cPageFooterDataDictionary
-70355>>>>>>>        Set DDO_Server To oPageHeader_DD
-70356>>>>>>>        Set DDO_Server To oShoe_DD
-70357>>>>>>>    End_Object 
-70358>>>>>>>
-70358>>>>>>>    Set Main_DD To oPageFooter_DD
-70359>>>>>>>    Set Server  To oPageFooter_DD
-70360>>>>>>>
-70360>>>>>>>
-70360>>>>>>>
-70360>>>>>>>    Object oSelList is a cDbCJGridPromptList
-70362>>>>>>>        Set Size to 105 131
-70363>>>>>>>        Set Location to 5 5
-70364>>>>>>>        Set peAnchors to anAll
-70365>>>>>>>        Set psLayoutSection to "PageFooter_sl_oSelList"
-70366>>>>>>>        Set Ordering to 1
-70367>>>>>>>        Set pbAutoServer to True
-70368>>>>>>>
-70368>>>>>>>        Object oPageFooter_id is a cDbCJGridColumn
-70370>>>>>>>            Entry_Item PageFooter.id
-70371>>>>>>>            Set piWidth to 46
-70372>>>>>>>            Set psCaption to "id"
-70373>>>>>>>        End_Object 
-70374>>>>>>>
-70374>>>>>>>        Object oPageHeader_id is a cDbCJGridColumn
-70376>>>>>>>            Entry_Item PageHeader.id
-70377>>>>>>>            Set piWidth to 95
-70378>>>>>>>            Set psCaption to "page header id"
-70379>>>>>>>        End_Object 
-70380>>>>>>>
-70380>>>>>>>        Object oShoe_id is a cDbCJGridColumn
-70382>>>>>>>            Entry_Item Shoe.id
-70383>>>>>>>            Set piWidth to 60
-70384>>>>>>>            Set psCaption to "shoe id"
-70385>>>>>>>        End_Object 
-70386>>>>>>>
-70386>>>>>>>
-70386>>>>>>>    End_Object 
-70387>>>>>>>
-70387>>>>>>>    Object oOk_bn is a Button
-70389>>>>>>>        Set Label to "&Ok"
-70390>>>>>>>        Set Location to 115 -22
-70391>>>>>>>        Set peAnchors to anBottomRight
-70392>>>>>>>
-70392>>>>>>>        Procedure OnClick
-70395>>>>>>>            Send OK of oSelList
-70396>>>>>>>        End_Procedure
-70397>>>>>>>
-70397>>>>>>>    End_Object 
-70398>>>>>>>
-70398>>>>>>>    Object oCancel_bn is a Button
-70400>>>>>>>        Set Label to "&Cancel"
-70401>>>>>>>        Set Location to 115 32
-70402>>>>>>>        Set peAnchors to anBottomRight
-70403>>>>>>>
-70403>>>>>>>        Procedure OnClick
-70406>>>>>>>            Send Cancel of oSelList
-70407>>>>>>>        End_Procedure
-70408>>>>>>>
-70408>>>>>>>    End_Object 
-70409>>>>>>>
-70409>>>>>>>    Object oSearch_bn is a Button
-70411>>>>>>>        Set Label to "&Search..."
-70412>>>>>>>        Set Location to 115 86
-70413>>>>>>>        Set peAnchors to anBottomRight
-70414>>>>>>>
-70414>>>>>>>        Procedure OnClick
-70417>>>>>>>            Send Search of oSelList
-70418>>>>>>>        End_Procedure
-70419>>>>>>>
-70419>>>>>>>    End_Object 
-70420>>>>>>>
-70420>>>>>>>    On_Key Key_Alt+Key_O Send KeyAction of oOk_bn
-70421>>>>>>>    On_Key Key_Alt+Key_C Send KeyAction of oCancel_bn
-70422>>>>>>>    On_Key Key_Alt+Key_S Send KeyAction of oSearch_bn
-70423>>>>>>>
-70423>>>>>>>
-70423>>>>>>>CD_End_Object // PageFooter_sl
-70425>>>>>>>>
-70425>>>
-70425>>>ACTIVATE_VIEW Activate_oPageFooterEntry FOR oPageFooterEntry
-70435>>>>
-70435>>>Object oPageFooterEntry is a dbView
-70437>>>    Set Location to 5 5
-70438>>>    Set Size to 79 445
-70439>>>    Set Label To "PageFooterEntry"
-70440>>>    Set Border_Style to Border_Thick
-70441>>>
-70441>>>
-70441>>>    Object oEmployee_DD is a cEmployeeDataDictionary
-70443>>>    End_Object 
-70444>>>
-70444>>>    Object oLine_DD is a cLineDataDictionary
-70446>>>    End_Object 
-70447>>>
-70447>>>    Object oPageHeader_DD is a cPageHeaderDataDictionary
-70449>>>        Set DDO_Server To oEmployee_DD
-70450>>>        Set DDO_Server To oLine_DD
-70451>>>    End_Object 
-70452>>>
-70452>>>    Object oShoe_DD is a cShoeDataDictionary
-70454>>>    End_Object 
-70455>>>
-70455>>>    Object oPageFooter_DD is a cPageFooterDataDictionary
-70457>>>        Set DDO_Server To oPageHeader_DD
-70458>>>        Set DDO_Server To oShoe_DD
-70459>>>    End_Object 
-70460>>>
-70460>>>    Set Main_DD To oPageFooter_DD
-70461>>>    Set Server  To oPageFooter_DD
-70462>>>
-70462>>>
-70462>>>
-70462>>>    Object oPageFooterid is a dbForm
-70464>>>        Entry_Item PageFooter.id
-70465>>>        Set Size to 12 34
-70466>>>        Set Location to 5 13
-70467>>>        Set peAnchors to anTopLeftRight
-70468>>>        Set Label to "id"
-70469>>>        Set Label_Justification_mode to jMode_Left
-70470>>>        Set Label_Col_Offset to 8
-70471>>>        Set Label_row_Offset to 0
-70472>>>    End_Object 
-70473>>>
-70473>>>    Object oPageHeaderid is a dbForm
-70475>>>        Entry_Item PageHeader.id
-70476>>>        Set Size to 12 34
-70477>>>        Set Location to 5 119
-70478>>>        Set peAnchors to anTopRight
-70479>>>        Set Label to "page header id"
-70480>>>        Set Label_Justification_mode to jMode_Left
-70481>>>        Set Label_Col_Offset to 49
-70482>>>        Set Label_row_Offset to 0
-70483>>>    End_Object 
-70484>>>
-70484>>>    Object oShoeid is a dbForm
-70486>>>        Entry_Item Shoe.id
-70487>>>        Set Size to 12 42
-70488>>>        Set Location to 5 202
-70489>>>        Set peAnchors to anTopRight
-70490>>>        Set Label to "shoe id"
-70491>>>        Set Label_Justification_mode to jMode_Left
-70492>>>        Set Label_Col_Offset to 25
-70493>>>        Set Label_row_Offset to 0
-70494>>>    End_Object 
-70495>>>
-70495>>>    Object oTabDialog is a dbTabDialog
-70497>>>        Set Size to 47 435
-70498>>>        Set Location to 27 5
-70499>>>        Set peAnchors to anTopLeftRight
-70500>>>
-70500>>>        Object oTabPage1 is a dbTabPage
-70502>>>            Set Label to "Tab Page Label"
-70503>>>
-70503>>>            Object oPageHeaderid is a dbForm
-70505>>>                Entry_Item PageHeader.id
-70506>>>                Set Size to 12 34
-70507>>>                Set Location to 10 13
-70508>>>                Set peAnchors to anTopLeftRight
-70509>>>                Set Label to "id"
-70510>>>                Set Label_Justification_mode to jMode_Left
-70511>>>                Set Label_Col_Offset to 8
-70512>>>                Set Label_row_Offset to 0
-70513>>>            End_Object 
-70514>>>
-70514>>>            Object oEmployeeid is a dbForm
-70516>>>                Entry_Item Employee.id
-70517>>>                Set Size to 12 34
-70518>>>                Set Location to 10 93
-70519>>>                Set peAnchors to anTopRight
-70520>>>                Set Label to "employee id"
-70521>>>                Set Label_Justification_mode to jMode_Left
-70522>>>                Set Label_Col_Offset to 41
-70523>>>                Set Label_row_Offset to 0
-70524>>>            End_Object 
-70525>>>
-70525>>>            Object oLineid is a dbForm
-70527>>>                Entry_Item Line.id
-70528>>>                Set Size to 12 34
-70529>>>                Set Location to 10 153
-70530>>>                Set peAnchors to anTopRight
-70531>>>                Set Label to "line id"
-70532>>>                Set Label_Justification_mode to jMode_Left
-70533>>>                Set Label_Col_Offset to 21
-70534>>>                Set Label_row_Offset to 0
-70535>>>            End_Object 
-70536>>>
-70536>>>        End_Object 
-70537>>>
-70537>>>        Object oTabPage2 is a dbTabPage
-70539>>>            Set Label to "Tab Page Label"
-70540>>>
-70540>>>            Object oShoeid is a dbForm
-70542>>>                Entry_Item Shoe.id
-70543>>>                Set Size to 12 42
-70544>>>                Set Location to 10 13
-70545>>>                Set peAnchors to anTopLeftRight
-70546>>>                Set Label to "id"
-70547>>>                Set Label_Justification_mode to jMode_Left
-70548>>>                Set Label_Col_Offset to 8
-70549>>>                Set Label_row_Offset to 0
-70550>>>            End_Object 
-70551>>>
-70551>>>            Object oShoename is a dbForm
-70553>>>                Entry_Item Shoe.name
-70554>>>                Set Size to 12 250
-70555>>>                Set Location to 10 80
-70556>>>                Set peAnchors to anTopRight
-70557>>>                Set Label to "name"
-70558>>>                Set Label_Justification_mode to jMode_Left
-70559>>>                Set Label_Col_Offset to 20
-70560>>>                Set Label_row_Offset to 0
-70561>>>            End_Object 
-70562>>>
-70562>>>            Object oShoeprice is a dbForm
-70564>>>                Entry_Item Shoe.price
-70565>>>                Set Size to 12 72
-70566>>>                Set Location to 10 353
-70567>>>                Set peAnchors to anTopRight
-70568>>>                Set Label to "price"
-70569>>>                Set Label_Justification_mode to jMode_Left
-70570>>>                Set Label_Col_Offset to 18
-70571>>>                Set Label_row_Offset to 0
-70572>>>            End_Object 
-70573>>>
-70573>>>        End_Object 
-70574>>>
-70574>>>    End_Object 
-70575>>>
-70575>>>
-70575>>>End_Object 
-70576>
-70576>        Procedure Activate_About
-70579>            Send DoAbout "" "" "" "" ""
-70580>        End_Procedure
-70581>
-70581>    End_Object
-70582>
-70582>End_Object
-70583>
-70583>Start_UI
-70584>
+69985>>>>>>>        Object oLine_id is a cDbCJGridColumn
+69987>>>>>>>            Entry_Item Line.id
+69988>>>>>>>            Set piWidth to 48
+69989>>>>>>>            Set psCaption to "line id"
+69990>>>>>>>        End_Object 
+69991>>>>>>>
+69991>>>>>>>
+69991>>>>>>>    End_Object 
+69992>>>>>>>
+69992>>>>>>>    Object oOk_bn is a Button
+69994>>>>>>>        Set Label to "&Ok"
+69995>>>>>>>        Set Location to 115 -37
+69996>>>>>>>        Set peAnchors to anBottomRight
+69997>>>>>>>
+69997>>>>>>>        Procedure OnClick
+70000>>>>>>>            Send OK of oSelList
+70001>>>>>>>        End_Procedure
+70002>>>>>>>
+70002>>>>>>>    End_Object 
+70003>>>>>>>
+70003>>>>>>>    Object oCancel_bn is a Button
+70005>>>>>>>        Set Label to "&Cancel"
+70006>>>>>>>        Set Location to 115 17
+70007>>>>>>>        Set peAnchors to anBottomRight
+70008>>>>>>>
+70008>>>>>>>        Procedure OnClick
+70011>>>>>>>            Send Cancel of oSelList
+70012>>>>>>>        End_Procedure
+70013>>>>>>>
+70013>>>>>>>    End_Object 
+70014>>>>>>>
+70014>>>>>>>    Object oSearch_bn is a Button
+70016>>>>>>>        Set Label to "&Search..."
+70017>>>>>>>        Set Location to 115 71
+70018>>>>>>>        Set peAnchors to anBottomRight
+70019>>>>>>>
+70019>>>>>>>        Procedure OnClick
+70022>>>>>>>            Send Search of oSelList
+70023>>>>>>>        End_Procedure
+70024>>>>>>>
+70024>>>>>>>    End_Object 
+70025>>>>>>>
+70025>>>>>>>    On_Key Key_Alt+Key_O Send KeyAction of oOk_bn
+70026>>>>>>>    On_Key Key_Alt+Key_C Send KeyAction of oCancel_bn
+70027>>>>>>>    On_Key Key_Alt+Key_S Send KeyAction of oSearch_bn
+70028>>>>>>>
+70028>>>>>>>
+70028>>>>>>>CD_End_Object // PageHeader_sl
+70030>>>>>>>>
+70030>>>Use MonthCalendarPrompt.dg
+Including file: MonthCalendarPrompt.dg    (C:\Program Files (x86)\DataFlex 19.1\Pkg\MonthCalendarPrompt.dg)
+70030>>>>>// Month Calendar Prompt dialog
+70030>>>>>Use cMonthCalendarPrompt.pkg
+Including file: cMonthCalendarPrompt.pkg    (C:\Program Files (x86)\DataFlex 19.1\Pkg\cMonthCalendarPrompt.pkg)
+70030>>>>>>>Use cMonthCalendar.pkg
+Including file: cMonthCalendar.pkg    (C:\Program Files (x86)\DataFlex 19.1\Pkg\cMonthCalendar.pkg)
+70030>>>>>>>>>Use Windows.pkg
+70030>>>>>>>>>Use Commctrl.pkg
+70030>>>>>>>>>Use tWinStructs.pkg
+70030>>>>>>>>>Use cWinControlEx.pkg
+Including file: cWinControlEx.pkg    (C:\Program Files (x86)\DataFlex 19.1\Pkg\cWinControlEx.pkg)
+70030>>>>>>>>>>>Use cWinControl.pkg
+Including file: cWinControl.pkg    (C:\Program Files (x86)\DataFlex 19.1\Pkg\cWinControl.pkg)
+70030>>>>>>>>>>>>>Use Windows.pkg
+70030>>>>>>>>>>>>>
+70030>>>>>>>>>>>>>// Key State Masks for Mouse Messages
+70030>>>>>>>>>>>>>
+70030>>>>>>>>>>>>>Define MK_LBUTTON  for |CI$0001
+70030>>>>>>>>>>>>>Define MK_RBUTTON  for |CI$0002
+70030>>>>>>>>>>>>>Define MK_SHIFT    for |CI$0004
+70030>>>>>>>>>>>>>Define MK_CONTROL  for |CI$0008
+70030>>>>>>>>>>>>>Define MK_MBUTTON  for |CI$0010
+70030>>>>>>>>>>>>>Define MK_XBUTTON1 for |CI$0020
+70030>>>>>>>>>>>>>Define MK_XBUTTON2 for |CI$0040
+70030>>>>>>>>>>>>>
+70030>>>>>>>>>>>>>Enum_List // Mouse Key Flags
+70030>>>>>>>>>>>>>    Define mkLeft    for MK_LBUTTON
+70030>>>>>>>>>>>>>    Define mkMiddle  for MK_MBUTTON
+70030>>>>>>>>>>>>>    Define mkRight   for MK_RBUTTON
+70030>>>>>>>>>>>>>    Define mkX1      for MK_XBUTTON1
+70030>>>>>>>>>>>>>    Define mkX2      for MK_XBUTTON2
+70030>>>>>>>>>>>>>    Define mkShift   for MK_SHIFT
+70030>>>>>>>>>>>>>    Define mkControl for MK_CONTROL
+70030>>>>>>>>>>>>>End_Enum_List
+70030>>>>>>>>>>>>>
+70030>>>>>>>>>>>>>Enum_List // Mouse Buttons. Used in OnMouseXXX messages
+70030>>>>>>>>>>>>>    Define mbLeft
+70030>>>>>>>>>>>>>    Define mbMiddle
+70030>>>>>>>>>>>>>    Define mbRight
+70030>>>>>>>>>>>>>    Define mbX1
+70030>>>>>>>>>>>>>    Define mbX2
+70030>>>>>>>>>>>>>End_Enum_List
+70030>>>>>>>>>>>>>
+70030>>>>>>>>>>>>>Class cWinControl is a DfBaseControl
+70031>>>>>>>>>>>>>    Procedure Construct_Object
+70033>>>>>>>>>>>>>        Forward Send Construct_Object
+70035>>>>>>>>>>>>>        Property Integer private_pbEnabled True
+70036>>>>>>>>>>>>>        Property Integer private_pbVisible True
+70037>>>>>>>>>>>>>    End_Procedure
+70038>>>>>>>>>>>>>    
+70038>>>>>>>>>>>>>    Procedure End_Construct_Object
+70040>>>>>>>>>>>>>        Forward Send End_Construct_Object
+70042>>>>>>>>>>>>>        
+70042>>>>>>>>>>>>>        Set External_Message WM_LBUTTONDOWN   to msg_OnWmLButtonDown
+70043>>>>>>>>>>>>>        Set External_Message WM_MBUTTONDOWN   to msg_OnWmMButtonDown
+70044>>>>>>>>>>>>>        Set External_Message WM_RBUTTONDOWN   to msg_OnWmRButtonDown
+70045>>>>>>>>>>>>>        Set External_Message WM_LBUTTONUP     to msg_OnWmLButtonUp
+70046>>>>>>>>>>>>>        Set External_Message WM_MBUTTONUP     to msg_OnWmMButtonUp
+70047>>>>>>>>>>>>>        Set External_Message WM_RBUTTONUP     to msg_OnWmRButtonUp
+70048>>>>>>>>>>>>>        Set External_Message WM_LBUTTONDBLCLK to msg_OnWmLButtonDblClk
+70049>>>>>>>>>>>>>        Set External_Message WM_MBUTTONDBLCLK to msg_OnWmMButtonDblClk
+70050>>>>>>>>>>>>>        Set External_Message WM_RBUTTONDBLCLK to msg_OnWmRButtonDblClk
+70051>>>>>>>>>>>>>        Set External_Message WM_MOUSEMOVE     to msg_OnWmMouseMove
+70052>>>>>>>>>>>>>    End_Procedure
+70053>>>>>>>>>>>>>    
+70053>>>>>>>>>>>>>    Procedure Notify Longptr wParam Longptr lParam
+70055>>>>>>>>>>>>>        //Intentionally cancelled
+70055>>>>>>>>>>>>>    End_Procedure
+70056>>>>>>>>>>>>>    
+70056>>>>>>>>>>>>>    Procedure Command Integer wParam Integer lParam
+70058>>>>>>>>>>>>>        //Intentionally cancelled
+70058>>>>>>>>>>>>>    End_Procedure
+70059>>>>>>>>>>>>>    
+70059>>>>>>>>>>>>>    Procedure DoRecreateWindow
+70061>>>>>>>>>>>>>        // Recreates the window
+70061>>>>>>>>>>>>>        If (Window_Handle(Self)) Begin
+70063>>>>>>>>>>>>>            // attempt to do this without disturbing the focus tree.
+70063>>>>>>>>>>>>>            Send Page_delete // prior to 8.3 this was Send Page_Object 0
+70064>>>>>>>>>>>>>            Send Page 1      //                       Send Page_Object 1
+70065>>>>>>>>>>>>>        End
+70065>>>>>>>>>>>>>>
+70065>>>>>>>>>>>>>    End_Procedure
+70066>>>>>>>>>>>>>    
+70066>>>>>>>>>>>>>    Procedure DoUpdateWindow
+70068>>>>>>>>>>>>>        // Forces windows to update the window by bypassing WM_PAINT
+70068>>>>>>>>>>>>>        Handle hWnd
+70068>>>>>>>>>>>>>        
+70068>>>>>>>>>>>>>        Get Window_Handle to hWnd
+70069>>>>>>>>>>>>>        If hWnd ;            Move (UpdateWindow(hWnd)) to hWnd
+70072>>>>>>>>>>>>>    End_Procedure
+70073>>>>>>>>>>>>>    
+70073>>>>>>>>>>>>>    Procedure Page Integer iState
+70075>>>>>>>>>>>>>        Set Window_Style to WS_DISABLED (private_pbEnabled(Self) =False)
+70076>>>>>>>>>>>>>        Set Window_Style to WS_VISIBLE (private_pbVisible(Self))
+70077>>>>>>>>>>>>>        Forward Send Page iState
+70079>>>>>>>>>>>>>    End_Procedure
+70080>>>>>>>>>>>>>    
+70080>>>>>>>>>>>>>    Procedure OnWmLButtonUp Integer wParam Integer lParam
+70082>>>>>>>>>>>>>        Integer x y eButton
+70082>>>>>>>>>>>>>        
+70082>>>>>>>>>>>>>        Move (Hi(lParam))  to y
+70083>>>>>>>>>>>>>        Move (Low(lParam)) to x
+70084>>>>>>>>>>>>>        
+70084>>>>>>>>>>>>>        Send OnMouseUp mbLeft x y wParam
+70085>>>>>>>>>>>>>    End_Procedure
+70086>>>>>>>>>>>>>    
+70086>>>>>>>>>>>>>    Procedure OnWmMButtonUp Integer wParam Integer lParam
+70088>>>>>>>>>>>>>        Integer x y eButton
+70088>>>>>>>>>>>>>        
+70088>>>>>>>>>>>>>        Move (Hi(lParam))  to y
+70089>>>>>>>>>>>>>        Move (Low(lParam)) to x
+70090>>>>>>>>>>>>>        
+70090>>>>>>>>>>>>>        Send OnMouseUp mbMiddle x y wParam
+70091>>>>>>>>>>>>>    End_Procedure
+70092>>>>>>>>>>>>>    
+70092>>>>>>>>>>>>>    Procedure OnWmRButtonUp Integer wParam Integer lParam
+70094>>>>>>>>>>>>>        Integer x y eButton
+70094>>>>>>>>>>>>>        
+70094>>>>>>>>>>>>>        Move (Hi(lParam))  to y
+70095>>>>>>>>>>>>>        Move (Low(lParam)) to x
+70096>>>>>>>>>>>>>        
+70096>>>>>>>>>>>>>        Send OnMouseUp mbRight x y wParam
+70097>>>>>>>>>>>>>    End_Procedure
+70098>>>>>>>>>>>>>    
+70098>>>>>>>>>>>>>    Procedure OnWmLButtonDown Integer wParam Integer lParam
+70100>>>>>>>>>>>>>        Integer x y eButton fKeys
+70100>>>>>>>>>>>>>        
+70100>>>>>>>>>>>>>        Move (Hi(lParam))  to y
+70101>>>>>>>>>>>>>        Move (Low(lParam)) to x
+70102>>>>>>>>>>>>>        
+70102>>>>>>>>>>>>>        Send OnMouseDown mbLeft x y wParam
+70103>>>>>>>>>>>>>    End_Procedure
+70104>>>>>>>>>>>>>    Procedure OnWmMButtonDown Integer wParam Integer lParam
+70106>>>>>>>>>>>>>        Integer x y eButton
+70106>>>>>>>>>>>>>        
+70106>>>>>>>>>>>>>        Move (Hi(lParam))  to y
+70107>>>>>>>>>>>>>        Move (Low(lParam)) to x
+70108>>>>>>>>>>>>>        
+70108>>>>>>>>>>>>>        Send OnMouseDown mbMiddle x y wParam
+70109>>>>>>>>>>>>>    End_Procedure
+70110>>>>>>>>>>>>>    Procedure OnWmRButtonDown Integer wParam Integer lParam
+70112>>>>>>>>>>>>>        Integer x y eButton
+70112>>>>>>>>>>>>>        
+70112>>>>>>>>>>>>>        Move (Hi(lParam))  to y
+70113>>>>>>>>>>>>>        Move (Low(lParam)) to x
+70114>>>>>>>>>>>>>        
+70114>>>>>>>>>>>>>        Send OnMouseDown mbRight x y wParam
+70115>>>>>>>>>>>>>    End_Procedure
+70116>>>>>>>>>>>>>    
+70116>>>>>>>>>>>>>    Procedure OnWmLButtonDblClk Integer wParam Integer lParam
+70118>>>>>>>>>>>>>        Integer x y eButton
+70118>>>>>>>>>>>>>        
+70118>>>>>>>>>>>>>        Move (Hi(lParam))  to y
+70119>>>>>>>>>>>>>        Move (Low(lParam)) to x
+70120>>>>>>>>>>>>>        
+70120>>>>>>>>>>>>>        Send OnMouseDoubleClick mbLeft x y wParam
+70121>>>>>>>>>>>>>    End_Procedure
+70122>>>>>>>>>>>>>    Procedure OnWmMButtonDblClk Integer wParam Integer lParam
+70124>>>>>>>>>>>>>        Integer x y eButton
+70124>>>>>>>>>>>>>        
+70124>>>>>>>>>>>>>        Move (Hi(lParam))  to y
+70125>>>>>>>>>>>>>        Move (Low(lParam)) to x
+70126>>>>>>>>>>>>>        
+70126>>>>>>>>>>>>>        Send OnMouseDoubleClick mbMiddle x y wParam
+70127>>>>>>>>>>>>>    End_Procedure
+70128>>>>>>>>>>>>>    Procedure OnWmRButtonDblClk Integer wParam Integer lParam
+70130>>>>>>>>>>>>>        Integer x y eButton
+70130>>>>>>>>>>>>>        
+70130>>>>>>>>>>>>>        Move (Hi(lParam))  to y
+70131>>>>>>>>>>>>>        Move (Low(lParam)) to x
+70132>>>>>>>>>>>>>        
+70132>>>>>>>>>>>>>        Send OnMouseDoubleClick mbRight x y wParam
+70133>>>>>>>>>>>>>    End_Procedure
+70134>>>>>>>>>>>>>    
+70134>>>>>>>>>>>>>    Procedure OnWmMouseMove Integer wParam Integer lParam
+70136>>>>>>>>>>>>>        Integer x y eButton
+70136>>>>>>>>>>>>>        
+70136>>>>>>>>>>>>>        Move (Hi(lParam))  to y
+70137>>>>>>>>>>>>>        Move (Low(lParam)) to x
+70138>>>>>>>>>>>>>        
+70138>>>>>>>>>>>>>        Send OnMouseMove x y wParam
+70139>>>>>>>>>>>>>    End_Procedure
+70140>>>>>>>>>>>>>    
+70140>>>>>>>>>>>>>    Procedure OnMouseDown Integer eButton Integer x Integer y Integer fKeys
+70142>>>>>>>>>>>>>        //Boolean bShiftKey bControlKey bLeftButton bRightButton
+70142>>>>>>>>>>>>>        //String sButton
+70142>>>>>>>>>>>>>        //Move (IsFlagIn(mkShift, fKeys))   To bShiftKey
+70142>>>>>>>>>>>>>        //Move (IsFlagIn(mkControl, fKeys)) To bControlKey
+70142>>>>>>>>>>>>>        //Move (IsFlagIn(mkLeft, fKeys))    To bLeftButton
+70142>>>>>>>>>>>>>        //Move (IsFlagIn(mkRight, fKeys))   To bRightButton
+70142>>>>>>>>>>>>>        
+70142>>>>>>>>>>>>>        //If (eButton = mbLeft) Move 'Left Button' To sButton
+70142>>>>>>>>>>>>>        //If (eButton = mbRight) Move 'Right Button' To sButton
+70142>>>>>>>>>>>>>        //Showln 'OnMouseDown ' sButton ' ' x ' ' y ' shift=' bShiftKey ' ctrl=' bControlKey  ' left=' bLeftButton ' right=' bRightButton
+70142>>>>>>>>>>>>>    End_Procedure
+70143>>>>>>>>>>>>>    
+70143>>>>>>>>>>>>>    Procedure OnMouseUp Integer eButton Integer x Integer y Integer fKeys
+70145>>>>>>>>>>>>>        //Boolean bShiftKey bControlKey bLeftButton bRightButton
+70145>>>>>>>>>>>>>        //String sButton
+70145>>>>>>>>>>>>>        //Move (IsFlagIn(mkShift, fKeys))   To bShiftKey
+70145>>>>>>>>>>>>>        //Move (IsFlagIn(mkControl, fKeys)) To bControlKey
+70145>>>>>>>>>>>>>        //Move (IsFlagIn(mkLeft, fKeys))    To bLeftButton
+70145>>>>>>>>>>>>>        //Move (IsFlagIn(mkRight, fKeys))   To bRightButton
+70145>>>>>>>>>>>>>        
+70145>>>>>>>>>>>>>        //If (eButton = mbLeft) Move 'Left Button' To sButton
+70145>>>>>>>>>>>>>        //If (eButton = mbRight) Move 'Right Button' To sButton
+70145>>>>>>>>>>>>>        //Showln 'OnMouseUp ' sButton ' ' x ' ' y ' shift=' bShiftKey ' ctrl=' bControlKey  ' left=' bLeftButton ' right=' bRightButton
+70145>>>>>>>>>>>>>    End_Procedure
+70146>>>>>>>>>>>>>    
+70146>>>>>>>>>>>>>    Procedure OnMouseDoubleClick Integer eButton Integer x Integer y Integer fKeys
+70148>>>>>>>>>>>>>        //Boolean bShiftKey bControlKey bLeftButton bRightButton
+70148>>>>>>>>>>>>>        //String sButton
+70148>>>>>>>>>>>>>        //Move (IsFlagIn(mkShift, fKeys))   To bShiftKey
+70148>>>>>>>>>>>>>        //Move (IsFlagIn(mkControl, fKeys)) To bControlKey
+70148>>>>>>>>>>>>>        //Move (IsFlagIn(mkLeft, fKeys))    To bLeftButton
+70148>>>>>>>>>>>>>        //Move (IsFlagIn(mkRight, fKeys))   To bRightButton
+70148>>>>>>>>>>>>>        
+70148>>>>>>>>>>>>>        //If (eButton = mbLeft) Move 'Left Button' To sButton
+70148>>>>>>>>>>>>>        //If (eButton = mbRight) Move 'Right Button' To sButton
+70148>>>>>>>>>>>>>        //Showln 'OnMouseDblClk ' sButton ' ' x ' ' y ' shift=' bShiftKey ' ctrl=' bControlKey  ' left=' bLeftButton ' right=' bRightButton
+70148>>>>>>>>>>>>>    End_Procedure
+70149>>>>>>>>>>>>>    
+70149>>>>>>>>>>>>>    Procedure OnMouseMove Integer x Integer y Integer fKeys
+70151>>>>>>>>>>>>>        //Boolean bShiftKey bControlKey bLeftButton bRightButton
+70151>>>>>>>>>>>>>        //Move (IsFlagIn(mkShift, fKeys))   To bShiftKey
+70151>>>>>>>>>>>>>        //Move (IsFlagIn(mkControl, fKeys)) To bControlKey
+70151>>>>>>>>>>>>>        //Move (IsFlagIn(mkLeft, fKeys))    To bLeftButton
+70151>>>>>>>>>>>>>        //Move (IsFlagIn(mkRight, fKeys))   To bRightButton
+70151>>>>>>>>>>>>>        
+70151>>>>>>>>>>>>>        //Showln 'OnMouseMove ' x ' ' y ' shift=' bShiftKey ' ctrl=' bControlKey  ' left=' bLeftButton ' right=' bRightButton
+70151>>>>>>>>>>>>>    End_Procedure
+70152>>>>>>>>>>>>>    
+70152>>>>>>>>>>>>>    Procedure Set pbEnabled Boolean bEnabled
+70154>>>>>>>>>>>>>        Handle hWnd
+70154>>>>>>>>>>>>>        
+70154>>>>>>>>>>>>>        If (bEnabled <> private_pbEnabled(Self)) Begin
+70156>>>>>>>>>>>>>            Set private_pbEnabled to bEnabled
+70157>>>>>>>>>>>>>            Get Window_Handle to hWnd
+70158>>>>>>>>>>>>>            If hWnd ;                Move (EnableWindow(hWnd, bEnabled)) to hWnd
+70161>>>>>>>>>>>>>        End
+70161>>>>>>>>>>>>>>
+70161>>>>>>>>>>>>>    End_Procedure
+70162>>>>>>>>>>>>>    Function pbEnabled Returns Boolean
+70164>>>>>>>>>>>>>        Function_Return (private_pbEnabled(Self))
+70165>>>>>>>>>>>>>    End_Function
+70166>>>>>>>>>>>>>    
+70166>>>>>>>>>>>>>    Procedure Set pbVisible Boolean bVisible
+70168>>>>>>>>>>>>>        Handle  hWnd
+70168>>>>>>>>>>>>>        Integer iVoid
+70168>>>>>>>>>>>>>        
+70168>>>>>>>>>>>>>        If (bVisible <> private_pbVisible(Self)) Begin
+70170>>>>>>>>>>>>>            Set private_pbVisible to bVisible
+70171>>>>>>>>>>>>>            Get Window_Handle to hWnd
+70172>>>>>>>>>>>>>            If hWnd ;                Move (ShowWindow(hWnd, If (bVisible, SW_SHOWNA, SW_HIDE))) to iVoid
+70175>>>>>>>>>>>>>        End
+70175>>>>>>>>>>>>>>
+70175>>>>>>>>>>>>>    End_Procedure
+70176>>>>>>>>>>>>>    Function pbVisible Returns Boolean
+70178>>>>>>>>>>>>>        Function_Return (private_pbVisible(Self))
+70179>>>>>>>>>>>>>    End_Function
+70180>>>>>>>>>>>>>    
+70180>>>>>>>>>>>>>End_Class
+70181>>>>>>>>>>>// This adds proper navigation and default button support for
+70181>>>>>>>>>>>// external classes
+70181>>>>>>>>>>>
+70181>>>>>>>>>>>Class cWinControlEx is a cWinControl
+70182>>>>>>>>>>>    Import_Class_Protocol Standard_Form_Mixin
+70183>>>>>>>>>>>    Procedure Construct_Object
+70185>>>>>>>>>>>        Forward Send Construct_Object
+70187>>>>>>>>>>>        Send define_standard_Form_Mixin
+70188>>>>>>>>>>>    End_Procedure
+70189>>>>>>>>>>>    
+70189>>>>>>>>>>>    Function item_count Integer iItem Returns Integer
+70191>>>>>>>>>>>        Function_Return 1
+70192>>>>>>>>>>>    End_Function
+70193>>>>>>>>>>>    
+70193>>>>>>>>>>>    Procedure External_SetFocus
+70195>>>>>>>>>>>        Send notify_focus_change 1
+70196>>>>>>>>>>>    End_Procedure
+70197>>>>>>>>>>>    
+70197>>>>>>>>>>>    Procedure External_KillFocus
+70199>>>>>>>>>>>        Send notify_focus_change 0
+70200>>>>>>>>>>>    End_Procedure
+70201>>>>>>>>>>>    
+70201>>>>>>>>>>>    Procedure End_Construct_Object
+70203>>>>>>>>>>>        Forward Send End_Construct_Object
+70205>>>>>>>>>>>        Set External_Message WM_SETFOCUS  to External_SetFocus
+70206>>>>>>>>>>>        Set External_Message WM_KILLFOCUS to External_KillFocus
+70207>>>>>>>>>>>    End_Procedure
+70208>>>>>>>>>>>    
+70208>>>>>>>>>>>End_Class
+70209>>>>>>>>>>>
+70209>>>>>>>>>
+70209>>>>>>>>>Class cMonthCalendar is a cWinControlEx
+70210>>>>>>>>>    Procedure Construct_Object
+70212>>>>>>>>>        Integer iResult
+70212>>>>>>>>>        tWinInitCommonControlsEX InitCC
+70212>>>>>>>>>        tWinInitCommonControlsEX InitCC
+70212>>>>>>>>>        
+70212>>>>>>>>>        Forward Send Construct_Object
+70214>>>>>>>>>        
+70214>>>>>>>>>        Move (SizeOfType (tWinInitCommonControlsEX)) to InitCC.dwSize
+70215>>>>>>>>>        Move ICC_DATE_CLASSES to InitCC.dwICC
+70216>>>>>>>>>        Move (InitCommonControlsEx(AddressOf(InitCC))) to iResult
+70217>>>>>>>>>        
+70217>>>>>>>>>        Set External_Class_Name 'cMonthCalendar' to 'SysMonthCal32'
+70218>>>>>>>>>        Set External_Message WM_LBUTTONDBLCLK to msg_OnLButtonDblClick
+70219>>>>>>>>>        
+70219>>>>>>>>>        Set Border_Style to Border_Normal
+70220>>>>>>>>>        
+70220>>>>>>>>>        Property Boolean pbNoToday False
+70221>>>>>>>>>        Property Boolean pbNoTodayCircle False
+70222>>>>>>>>>        Property Boolean pbMultiSelect False
+70223>>>>>>>>>        Property Boolean pbWeekNumbers False
+70224>>>>>>>>>        Property Integer piMaxSelectedCount 90
+70225>>>>>>>>>        
+70225>>>>>>>>>        // this is minimum Dialog units required for a single picker rectangle
+70225>>>>>>>>>        Property Integer piMinWidth 0
+70226>>>>>>>>>        Property Integer piMinHeight 0
+70227>>>>>>>>>        
+70227>>>>>>>>>        // stores initial date before control is activated
+70227>>>>>>>>>        Property Date pdPrivateDate
+70228>>>>>>>>>        // if multi-select, this is the end range
+70228>>>>>>>>>        Property Date pdPrivateDate2
+70229>>>>>>>>>        
+70229>>>>>>>>>    End_Procedure
+70230>>>>>>>>>    
+70230>>>>>>>>>    // returns control's value when single select
+70230>>>>>>>>>    Function SelectedDate Returns Date
+70232>>>>>>>>>        tWinSystemTime CurrentSystemTime
+70232>>>>>>>>>        tWinSystemTime CurrentSystemTime
+70232>>>>>>>>>        Integer iRetval
+70232>>>>>>>>>        DateTime dtSel
+70232>>>>>>>>>        Handle hWnd
+70232>>>>>>>>>        Get Window_Handle to hWnd
+70233>>>>>>>>>        If (hWnd) Begin
+70235>>>>>>>>>            Move (WindowsMessage (MCM_GETCURSEL, 0, AddressOf (CurrentSystemTime))) to iRetval
+70236>>>>>>>>>            Move (DateSetDay(dtSel,CurrentSystemTime.wDay)) to dtSel
+70237>>>>>>>>>            Move (DateSetMonth(dtSel,CurrentSystemTime.wMonth)) to dtSel
+70238>>>>>>>>>            Move (DateSetYear(dtSel,CurrentSystemTime.wYear)) to dtSel
+70239>>>>>>>>>        End
+70239>>>>>>>>>>
+70239>>>>>>>>>        Else Begin
+70240>>>>>>>>>            Get pdPrivateDate to dtSel
+70241>>>>>>>>>        End
+70241>>>>>>>>>>
+70241>>>>>>>>>        Function_Return (Date(dtSel))
+70242>>>>>>>>>    End_Function
+70243>>>>>>>>>    
+70243>>>>>>>>>    // returns control's values when multi select
+70243>>>>>>>>>    Function SelectedDateRange Returns Date[]
+70245>>>>>>>>>        tWinSystemTime[2] CurrentSystemTime
+70245>>>>>>>>>        tWinSystemTime[2] CurrentSystemTime
+70246>>>>>>>>>        Integer iRetval
+70246>>>>>>>>>        DateTime dtSel1 dtsel2
+70246>>>>>>>>>        Date[] dtSel
+70247>>>>>>>>>        Handle hWnd
+70247>>>>>>>>>        Get Window_Handle to hWnd
+70248>>>>>>>>>        If (hWnd) Begin
+70250>>>>>>>>>            Move (WindowsMessage (MCM_GETSELRANGE, 0, AddressOf (CurrentSystemTime))) to iRetval
+70251>>>>>>>>>            
+70251>>>>>>>>>            Move (DateSetDay(dtSel1,CurrentSystemTime[0].wDay)) to dtSel1
+70252>>>>>>>>>            Move (DateSetMonth(dtSel1,CurrentSystemTime[0].wMonth)) to dtSel1
+70253>>>>>>>>>            Move (DateSetYear(dtSel1,CurrentSystemTime[0].wYear)) to dtSel1
+70254>>>>>>>>>            
+70254>>>>>>>>>            Move (DateSetDay(dtSel2,CurrentSystemTime[1].wDay)) to dtSel2
+70255>>>>>>>>>            Move (DateSetMonth(dtSel2,CurrentSystemTime[1].wMonth)) to dtSel2
+70256>>>>>>>>>            Move (DateSetYear(dtSel2,CurrentSystemTime[1].wYear)) to dtSel2
+70257>>>>>>>>>            
+70257>>>>>>>>>            Move dtSel1 to dtSel[0]
+70258>>>>>>>>>            Move dtsel2 to dtSel[1]
+70259>>>>>>>>>        End
+70259>>>>>>>>>>
+70259>>>>>>>>>        Else Begin
+70260>>>>>>>>>            Get pdPrivateDate to dtSel[0]
+70261>>>>>>>>>            Get pdPrivateDate2 to dtSel[1]
+70262>>>>>>>>>        End
+70262>>>>>>>>>>
+70262>>>>>>>>>        Function_Return dtSel
+70263>>>>>>>>>    End_Function
+70264>>>>>>>>>    
+70264>>>>>>>>>    // Set control's value when single select
+70264>>>>>>>>>    Procedure SetSelectedDate Date dDate
+70266>>>>>>>>>        tWinSystemTime CurrentSystemTime
+70266>>>>>>>>>        tWinSystemTime CurrentSystemTime
+70266>>>>>>>>>        Integer iRetval
+70266>>>>>>>>>        Handle hWnd
+70266>>>>>>>>>        
+70266>>>>>>>>>        Get Window_Handle to hWnd
+70267>>>>>>>>>        Set pdPrivateDate to dDate
+70268>>>>>>>>>        If (hWnd) Begin
+70270>>>>>>>>>            Move (DateGetDay(dDate)) to CurrentSystemTime.wDay
+70271>>>>>>>>>            Move (DateGetMonth(dDate)) to CurrentSystemTime.wMonth
+70272>>>>>>>>>            Move (DateGetYear(dDate)) to CurrentSystemTime.wYear
+70273>>>>>>>>>            
+70273>>>>>>>>>            Move (WindowsMessage (MCM_SETCURSEL, 0, AddressOf (CurrentSystemTime))) to iRetval
+70274>>>>>>>>>        End
+70274>>>>>>>>>>
+70274>>>>>>>>>    End_Procedure
+70275>>>>>>>>>    
+70275>>>>>>>>>    // Set control's values when multi select
+70275>>>>>>>>>    Procedure SetSelectedDateRange Date dDate Date dDate2
+70277>>>>>>>>>        tWinSystemTime[] CurrentSystemTime
+70277>>>>>>>>>        tWinSystemTime[] CurrentSystemTime
+70278>>>>>>>>>        Integer iRetval
+70278>>>>>>>>>        Handle hWnd
+70278>>>>>>>>>        
+70278>>>>>>>>>        Get Window_Handle to hWnd
+70279>>>>>>>>>        Set pdPrivateDate to dDate
+70280>>>>>>>>>        Set pdPrivateDate2 to dDate2
+70281>>>>>>>>>        If (hWnd) Begin
+70283>>>>>>>>>            Move (DateGetDay(dDate)) to CurrentSystemTime[0].wDay
+70284>>>>>>>>>            Move (DateGetMonth(dDate)) to CurrentSystemTime[0].wMonth
+70285>>>>>>>>>            Move (DateGetYear(dDate)) to CurrentSystemTime[0].wYear
+70286>>>>>>>>>            
+70286>>>>>>>>>            Move (DateGetDay(dDate2)) to CurrentSystemTime[1].wDay
+70287>>>>>>>>>            Move (DateGetMonth(dDate2)) to CurrentSystemTime[1].wMonth
+70288>>>>>>>>>            Move (DateGetYear(dDate2)) to CurrentSystemTime[1].wYear
+70289>>>>>>>>>            
+70289>>>>>>>>>            Move (WindowsMessage (MCM_SETSELRANGE, 0, AddressOf (CurrentSystemTime))) to iRetval
+70290>>>>>>>>>        End
+70290>>>>>>>>>>
+70290>>>>>>>>>    End_Procedure
+70291>>>>>>>>>    
+70291>>>>>>>>>    // augment to set dates from control, so they can be accessed after the control is closed
+70291>>>>>>>>>    Procedure Remove_Object
+70293>>>>>>>>>        Date[] SelDate
+70294>>>>>>>>>        If (pbMultiSelect(Self)) Begin
+70296>>>>>>>>>            Get SelectedDateRange to SelDate
+70297>>>>>>>>>            Set pdPrivateDate2 to SelDate[1]
+70298>>>>>>>>>        End
+70298>>>>>>>>>>
+70298>>>>>>>>>        Else Begin
+70299>>>>>>>>>            Get SelectedDate to SelDate[0]
+70300>>>>>>>>>        End
+70300>>>>>>>>>>
+70300>>>>>>>>>        Set pdPrivateDate to SelDate[0]
+70301>>>>>>>>>        Forward Send Remove_Object
+70303>>>>>>>>>    End_Procedure
+70304>>>>>>>>>    
+70304>>>>>>>>>    Procedure Page Integer iState
+70306>>>>>>>>>        Integer iRetval iSize iHeight iWidth
+70306>>>>>>>>>        tWinRect WindowRect
+70306>>>>>>>>>        tWinRect WindowRect
+70306>>>>>>>>>        Date dDate dDate2
+70306>>>>>>>>>        Handle hWnd
+70306>>>>>>>>>        Integer  iMaxSelectedCount
+70306>>>>>>>>>        Boolean bNoToday bWeekNumbers bMultiSelect bNoTodayCircle
+70306>>>>>>>>>        
+70306>>>>>>>>>        If (iState<>1) Begin
+70308>>>>>>>>>            Forward Send Page iState
+70310>>>>>>>>>            Procedure_Return
+70311>>>>>>>>>        End
+70311>>>>>>>>>>
+70311>>>>>>>>>        
+70311>>>>>>>>>        Set Icon to 'ActionCalendar.ico'
+70312>>>>>>>>>        
+70312>>>>>>>>>        Get pbNoToday to bNoToday
+70313>>>>>>>>>        Get pbNoTodayCircle to bNoTodayCircle
+70314>>>>>>>>>        Get pbMultiSelect to bMultiSelect
+70315>>>>>>>>>        Get pbWeekNumbers to bWeekNumbers
+70316>>>>>>>>>        Get piMaxSelectedCount to iMaxSelectedCount
+70317>>>>>>>>>        
+70317>>>>>>>>>        Set Window_Style MCS_MULTISELECT to bMultiSelect
+70318>>>>>>>>>        Set Window_Style MCS_NOTODAY to bNoToday
+70319>>>>>>>>>        Set Window_Style MCS_NOTODAYCIRCLE to bNoTodayCircle
+70320>>>>>>>>>        Set Window_Style MCS_WEEKNUMBERS to bWeekNumbers
+70321>>>>>>>>>        Forward Send Page iState
+70323>>>>>>>>>        
+70323>>>>>>>>>        Get Window_Handle to hWnd
+70324>>>>>>>>>        // support double click
+70324>>>>>>>>>        Move (SetClassLongPtr(hWnd,GCL_STYLE,CS_DBLCLKS ior CS_GLOBALCLASS)) to iRetval
+70325>>>>>>>>>        // set range when multi select
+70325>>>>>>>>>        Move (WindowsMessage(MCM_SETMAXSELCOUNT,iMaxSelectedCount,0)) to iRetval
+70326>>>>>>>>>        
+70326>>>>>>>>>        // store minimum size for calendar control and set the size to this by default
+70326>>>>>>>>>        Move (WindowsMessage (MCM_GETMINREQRECT, 0, AddressOf(WindowRect))) to iRetval
+70327>>>>>>>>>        Get GuiToDialog WindowRect.bottom WindowRect.right to iSize
+70328>>>>>>>>>        Move (Hi(iSize)) to iHeight
+70329>>>>>>>>>        Move (Low(iSize)) to iWidth
+70330>>>>>>>>>        Set piMinWidth to iWidth
+70331>>>>>>>>>        Set piMinHeight to iHeight
+70332>>>>>>>>>        Set Size to iHeight iWidth
+70333>>>>>>>>>        
+70333>>>>>>>>>        // now that we are activated set starting date or date range
+70333>>>>>>>>>        Get pdPrivateDate to dDate
+70334>>>>>>>>>        If (pbMultiSelect(Self)) Begin
+70336>>>>>>>>>            Get pdPrivateDate2 to dDate2
+70337>>>>>>>>>            Send SetSelectedDateRange dDate dDate2
+70338>>>>>>>>>        End
+70338>>>>>>>>>>
+70338>>>>>>>>>        Else Begin
+70339>>>>>>>>>            Send SetSelectedDate dDate
+70340>>>>>>>>>        End
+70340>>>>>>>>>>
+70340>>>>>>>>>    End_Procedure
+70341>>>>>>>>>    
+70341>>>>>>>>>    Procedure Notify Longptr wParam Longptr lParam
+70343>>>>>>>>>        Integer iRetval
+70343>>>>>>>>>        DateTime dtSel dtSel2
+70343>>>>>>>>>        tWintagNMSelChange CalenderInfo
+70343>>>>>>>>>        tWintagNMSelChange CalenderInfo
+70343>>>>>>>>>        Boolean bMulti
+70343>>>>>>>>>        
+70343>>>>>>>>>        Move (MemCopy (AddressOf (CalenderInfo), lParam, SizeOfType (tWintagNMSelChange))) to iRetval
+70344>>>>>>>>>        If (CalenderInfo.nmHdr.code = MCN_SELCHANGE) Begin
+70346>>>>>>>>>            Get pbMultiSelect to bMulti
+70347>>>>>>>>>            Move (DateSetDay(dtSel,CalenderInfo.stSelStart.wDay)) to dtSel
+70348>>>>>>>>>            Move (DateSetMonth(dtSel,CalenderInfo.stSelStart.wMonth)) to dtSel
+70349>>>>>>>>>            Move (DateSetYear(dtSel,CalenderInfo.stSelStart.wYear)) to dtSel
+70350>>>>>>>>>            If bMulti Begin
+70352>>>>>>>>>                Move (DateSetDay(dtSel,CalenderInfo.stSelEnd.wDay)) to dtSel2
+70353>>>>>>>>>                Move (DateSetMonth(dtSel,CalenderInfo.stSelEnd.wMonth)) to dtSel2
+70354>>>>>>>>>                Move (DateSetYear(dtSel,CalenderInfo.stSelEnd.wYear)) to dtSel2
+70355>>>>>>>>>            End
+70355>>>>>>>>>>
+70355>>>>>>>>>            Send OnChange (Date(dtSel)) (Date(dtSel2))
+70356>>>>>>>>>        End
+70356>>>>>>>>>>
+70356>>>>>>>>>    End_Procedure
+70357>>>>>>>>>    
+70357>>>>>>>>>    // sent whenever there is a selection change within the calendar
+70357>>>>>>>>>    Procedure OnChange Date dDate Date dDate2
+70359>>>>>>>>>    End_Procedure
+70360>>>>>>>>>    
+70360>>>>>>>>>    // sent when a click occurs in the calendar
+70360>>>>>>>>>    Procedure OnClick
+70362>>>>>>>>>    End_Procedure
+70363>>>>>>>>>    
+70363>>>>>>>>>    // sent when a double click occurs in the calendar
+70363>>>>>>>>>    Procedure OnDoubleClick
+70365>>>>>>>>>    End_Procedure
+70366>>>>>>>>>    
+70366>>>>>>>>>    // sends OnClick if the double click is on a calendar day
+70366>>>>>>>>>    Procedure OnLButtonDblClick Integer wParam Integer lParam
+70368>>>>>>>>>        Boolean bDayHit
+70368>>>>>>>>>        Get MonthDayHit to bDayHit
+70369>>>>>>>>>        If bDayHit Begin
+70371>>>>>>>>>            Send OnDoubleClick
+70372>>>>>>>>>        End
+70372>>>>>>>>>>
+70372>>>>>>>>>    End_Procedure
+70373>>>>>>>>>    
+70373>>>>>>>>>    // sends OnClick if the click is on a calendar day
+70373>>>>>>>>>    Procedure OnWmLButtonUp Integer wParam Integer lParam
+70375>>>>>>>>>        Boolean bDayHit
+70375>>>>>>>>>        Get MonthDayHit to bDayHit
+70376>>>>>>>>>        If bDayHit Begin
+70378>>>>>>>>>            Send OnClick
+70379>>>>>>>>>        End
+70379>>>>>>>>>>
+70379>>>>>>>>>    End_Procedure
+70380>>>>>>>>>    
+70380>>>>>>>>>    // returns true if the month calander is up and the mouse is over a day
+70380>>>>>>>>>    Function MonthDayHit Returns Boolean
+70382>>>>>>>>>        UInteger iRet
+70382>>>>>>>>>        Move (WindowsMessage( MCM_GETCURRENTVIEW, 0, 0)) to iRet
+70383>>>>>>>>>        If (iRet=MCMV_MONTH) Begin
+70385>>>>>>>>>            Get HitTest to iRet
+70386>>>>>>>>>            Function_Return (iRet=MCHT_CALENDARDATE)
+70387>>>>>>>>>        End
+70387>>>>>>>>>>
+70387>>>>>>>>>        Function_Return False
+70388>>>>>>>>>    End_Function
+70389>>>>>>>>>    
+70389>>>>>>>>>    // return what was hit in the control
+70389>>>>>>>>>    Function HitTest Returns UInteger
+70391>>>>>>>>>        tWinMCHitTestInfo HitInfo
+70391>>>>>>>>>        tWinMCHitTestInfo HitInfo
+70391>>>>>>>>>        Handle hWnd iRet
+70391>>>>>>>>>        Integer iVoid
+70391>>>>>>>>>        Pointer lpPt
+70391>>>>>>>>>        tWinPoint Pt
+70391>>>>>>>>>        tWinPoint Pt
+70391>>>>>>>>>        Get Window_Handle to hWnd
+70392>>>>>>>>>        Move (AddressOf(Pt)) to lpPt
+70393>>>>>>>>>        Move (GetCursorPos(lpPt)) to iVoid
+70394>>>>>>>>>        Move (ScreenToClient(hWnd, lpPt)) to iVoid
+70395>>>>>>>>>        Move Pt to HitInfo.Pt
+70396>>>>>>>>>        Move (SizeOfType(tWinMCHitTestInfo)) to HitInfo.cbSize
+70397>>>>>>>>>        Move (WindowsMessage(MCM_HITTEST, 0, AddressOf(HitInfo))) to iRet
+70398>>>>>>>>>        Function_Return HitInfo.uHit
+70399>>>>>>>>>    End_Function
+70400>>>>>>>>>    
+70400>>>>>>>>>End_Class
+70401>>>>>>>
+70401>>>>>>>// peMouseSelectOk choices
+70401>>>>>>>Enum_List
+70401>>>>>>>    Define msoClick
+70401>>>>>>>    Define msoDblClick
+70401>>>>>>>    Define msoNone
+70401>>>>>>>End_Enum_List
+70401>>>>>>>
+70401>>>>>>>// It is expected that this class will only be used inside of ModalPanel and
+70401>>>>>>>// will be used as a prompt object component in a framework style application.
+70401>>>>>>>// If you wish to Use a month calendar in some other non prompt situation,
+70401>>>>>>>// use cMonthCalendar
+70401>>>>>>>
+70401>>>>>>>Class cMonthCalendarPrompt is a cMonthCalendar
+70402>>>>>>>    
+70402>>>>>>>    Procedure Construct_Object
+70404>>>>>>>        
+70404>>>>>>>        Forward Send Construct_Object
+70406>>>>>>>        
+70406>>>>>>>        Property Integer peUpdateMode umPromptValue
+70407>>>>>>>        
+70407>>>>>>>        Property Integer peMouseSelectOk msoClick
+70408>>>>>>>        
+70408>>>>>>>        Property Date pdSeedValue
+70409>>>>>>>        
+70409>>>>>>>        // if multi-select, this is the end range
+70409>>>>>>>        Property Date pdSeedValue2
+70410>>>>>>>        
+70410>>>>>>>        Property Handle phmPromptUpdateCallback 0
+70411>>>>>>>        
+70411>>>>>>>        Property Integer phoInvokingObject
+70412>>>>>>>        
+70412>>>>>>>        Property Integer peStoredUpdateMode
+70413>>>>>>>        Property Handle  phmStoredPromptUpdateCallback
+70414>>>>>>>        Property Boolean pbStoredWeekNumbers
+70415>>>>>>>        Property Boolean pbStoredNoToday
+70416>>>>>>>        Property Boolean pbStoredNoTodayCircle
+70417>>>>>>>        Property Boolean pbStoredMultiSelect
+70418>>>>>>>        Property Integer piStoredMaxSelectedCount
+70419>>>>>>>        Property Integer peStoredpeMouseSelectOk
+70420>>>>>>>        
+70420>>>>>>>        // internally set by list
+70420>>>>>>>        // these must be set upon closing the list and can be used for manual list updates
+70420>>>>>>>        Property Boolean pbCanceled
+70421>>>>>>>        
+70421>>>>>>>    End_Procedure
+70422>>>>>>>    
+70422>>>>>>>    Procedure OnStoreDefaults
+70424>>>>>>>        Integer iVal
+70424>>>>>>>        Boolean bVal
+70424>>>>>>>        
+70424>>>>>>>        Get peUpdateMode to iVal
+70425>>>>>>>        Set peStoredUpdateMode to iVal
+70426>>>>>>>        
+70426>>>>>>>        Get phmPromptUpdateCallback to iVal
+70427>>>>>>>        Set phmStoredPromptUpdateCallback to iVal
+70428>>>>>>>        
+70428>>>>>>>        Get pbMultiSelect to bVal
+70429>>>>>>>        Set pbStoredMultiSelect to bVal
+70430>>>>>>>        
+70430>>>>>>>        Get pbNoToday to bVal
+70431>>>>>>>        Set pbStoredNoToday to bVal
+70432>>>>>>>        
+70432>>>>>>>        Get pbNoTodayCircle to bVal
+70433>>>>>>>        Set pbStoredNoTodayCircle to bVal
+70434>>>>>>>        
+70434>>>>>>>        Get pbWeekNumbers to bVal
+70435>>>>>>>        Set pbStoredWeekNumbers to bVal
+70436>>>>>>>        
+70436>>>>>>>        Get piMaxSelectedCount to iVal
+70437>>>>>>>        Set piStoredMaxSelectedCount to iVal
+70438>>>>>>>        
+70438>>>>>>>        Get peMouseSelectOk to iVal
+70439>>>>>>>        Set peStoredpeMouseSelectOk to iVal
+70440>>>>>>>        
+70440>>>>>>>    End_Procedure
+70441>>>>>>>    
+70441>>>>>>>    Procedure OnRestoreDefaults
+70443>>>>>>>        Integer iVal
+70443>>>>>>>        Boolean bVal
+70443>>>>>>>        
+70443>>>>>>>        Get peStoredUpdateMode to iVal
+70444>>>>>>>        Set peUpdateMode to iVal
+70445>>>>>>>        
+70445>>>>>>>        Get phmStoredPromptUpdateCallback to iVal
+70446>>>>>>>        Set phmPromptUpdateCallback to iVal
+70447>>>>>>>        
+70447>>>>>>>        Get pbStoredMultiSelect to bVal
+70448>>>>>>>        Set pbMultiSelect to bVal
+70449>>>>>>>        
+70449>>>>>>>        Get pbStoredNoToday to bVal
+70450>>>>>>>        Set pbNoToday to bVal
+70451>>>>>>>        
+70451>>>>>>>        Get pbStoredNoTodayCircle to bVal
+70452>>>>>>>        Set pbNoTodayCircle to bVal
+70453>>>>>>>        
+70453>>>>>>>        Get pbStoredWeekNumbers to bVal
+70454>>>>>>>        Set pbWeekNumbers to bVal
+70455>>>>>>>        
+70455>>>>>>>        Get piStoredMaxSelectedCount to iVal
+70456>>>>>>>        Set piMaxSelectedCount to iVal
+70457>>>>>>>        
+70457>>>>>>>        Get peStoredpeMouseSelectOk to iVal
+70458>>>>>>>        Set peMouseSelectOk to iVal
+70459>>>>>>>        
+70459>>>>>>>    End_Procedure
+70460>>>>>>>    
+70460>>>>>>>    Procedure Add_Focus Handle hoParent Returns Integer
+70462>>>>>>>        Integer eMode
+70462>>>>>>>        Set pbCanceled to True // assume cancel unless changed
+70463>>>>>>>        Get peUpdateMode to eMode
+70464>>>>>>>        If (eMode<>umPromptNonInvoking) Begin
+70466>>>>>>>            Send OnStoreDefaults
+70467>>>>>>>        End
+70467>>>>>>>>
+70467>>>>>>>        Send InitializePrompt
+70468>>>>>>>        Forward Send Add_Focus hoParent
+70470>>>>>>>    End_Procedure
+70471>>>>>>>    
+70471>>>>>>>    // augment to send OnRestoreDefaults.
+70471>>>>>>>    Procedure Release_Focus
+70473>>>>>>>        Integer eUpdateMode
+70473>>>>>>>        Get peUpdateMode to eUpdateMode
+70474>>>>>>>        Forward Send Release_Focus
+70476>>>>>>>        If (eUpdateMode<>umPromptNonInvoking) Begin
+70478>>>>>>>            Send OnRestoreDefaults
+70479>>>>>>>        End
+70479>>>>>>>>
+70479>>>>>>>    End_Procedure
+70480>>>>>>>    
+70480>>>>>>>    // This is only called in a successful close
+70480>>>>>>>    Procedure ClosePrompt
+70482>>>>>>>        Handle hoInvokingObject
+70482>>>>>>>        Handle hmCallBack
+70482>>>>>>>        Integer eUpdateMode
+70482>>>>>>>        Date[] dDates
+70483>>>>>>>        
+70483>>>>>>>        Set pbCanceled to False
+70484>>>>>>>        
+70484>>>>>>>        Get peUpdateMode to eUpdateMode
+70485>>>>>>>        // if non-invoking there is by definition, no move value out
+70485>>>>>>>        If (eUpdateMode<>umPromptNonInvoking) Begin
+70487>>>>>>>            
+70487>>>>>>>            If (eUpdateMode=umPromptValue) Begin
+70489>>>>>>>                Send OnMoveValueOutByValue
+70490>>>>>>>            End
+70490>>>>>>>>
+70490>>>>>>>            Else If (eUpdateMode=umPromptCustom) Begin
+70493>>>>>>>                Send OnMoveValueOutByCustom
+70494>>>>>>>            End
+70494>>>>>>>>
+70494>>>>>>>            Get phmPromptUpdateCallback to hmCallBack
+70495>>>>>>>            If hmCallBack Begin
+70497>>>>>>>                Get phoInvokingObject to hoInvokingObject
+70498>>>>>>>                If (pbMultiSelect(Self)) Begin
+70500>>>>>>>                    Get SelectedDateRange to dDates
+70501>>>>>>>                    Send hmCallBack of hoInvokingObject Self dDates[0] dDates[1]
+70502>>>>>>>                    
+70502>>>>>>>                End
+70502>>>>>>>>
+70502>>>>>>>                Else Begin
+70503>>>>>>>                    Get SelectedDate to dDates[0]
+70504>>>>>>>                    Send hmCallBack of hoInvokingObject Self dDates[0]
+70505>>>>>>>                End
+70505>>>>>>>>
+70505>>>>>>>            End
+70505>>>>>>>>
+70505>>>>>>>        End
+70505>>>>>>>>
+70505>>>>>>>        
+70505>>>>>>>        Send Close_Panel
+70506>>>>>>>    End_Procedure
+70507>>>>>>>    
+70507>>>>>>>    Procedure OnMoveValueOutByValue
+70509>>>>>>>        Handle hoInvokingObject
+70509>>>>>>>        Date dSelDate
+70509>>>>>>>        Boolean bMulti
+70509>>>>>>>        // we can only do an automatic move value out with
+70509>>>>>>>        // single select. If multi-select you will probably want to
+70509>>>>>>>        // use a callback method (hmCallBack) to update the values.
+70509>>>>>>>        Get pbMultiSelect to bMulti
+70510>>>>>>>        If (not(bMulti)) Begin
+70512>>>>>>>            Get SelectedDate to dSelDate
+70513>>>>>>>            Get phoInvokingObject to hoInvokingObject
+70514>>>>>>>            Set Value of hoInvokingObject to dSelDate
+70515>>>>>>>            Set Item_Changed_State of hoInvokingObject to True
+70516>>>>>>>        End
+70516>>>>>>>>
+70516>>>>>>>    End_Procedure
+70517>>>>>>>    
+70517>>>>>>>    Procedure OnMoveValueOutByCustom
+70519>>>>>>>    End_Procedure
+70520>>>>>>>    
+70520>>>>>>>    // called before the list is activated.
+70520>>>>>>>    Procedure InitializePrompt
+70522>>>>>>>        Handle hoInvokingObject
+70522>>>>>>>        Integer eUpdateMode
+70522>>>>>>>        Boolean bMulti
+70522>>>>>>>        Date dValue
+70522>>>>>>>        
+70522>>>>>>>        Get peUpdateMode to eUpdateMode
+70523>>>>>>>        If (eUpdateMode<>umPromptNonInvoking) Begin
+70525>>>>>>>            
+70525>>>>>>>            Get Focus of Desktop to hoInvokingObject
+70526>>>>>>>            If (hoInvokingObject<=Desktop) Begin
+70528>>>>>>>                Error DFERR_PROGRAM "Calendar Prompt has no invoking object"
+70529>>>>>>>>
+70529>>>>>>>                Procedure_Return
+70530>>>>>>>            End
+70530>>>>>>>>
+70530>>>>>>>            
+70530>>>>>>>            Set phoInvokingObject to hoInvokingObject
+70531>>>>>>>            Send Prompt_Callback to hoInvokingObject Self
+70532>>>>>>>            Get peUpdateMode to eUpdateMode
+70533>>>>>>>        End
+70533>>>>>>>>
+70533>>>>>>>        
+70533>>>>>>>        Get pdSeedValue to dValue
+70534>>>>>>>        Get pbMultiSelect to bMulti
+70535>>>>>>>        If (not(bMulti) and eUpdateMode=umPromptValue and dValue=0) Begin
+70537>>>>>>>            Get Value of hoInvokingObject to dValue
+70538>>>>>>>            Set pdSeedValue to dValue
+70539>>>>>>>        End
+70539>>>>>>>>
+70539>>>>>>>        Send OnSeedData
+70540>>>>>>>        Set pdSeedValue to 0
+70541>>>>>>>        Set pdSeedValue2 to 0
+70542>>>>>>>    End_Procedure
+70543>>>>>>>    
+70543>>>>>>>    Procedure OnSeedData
+70545>>>>>>>        Boolean bMulti
+70545>>>>>>>        Date dValue dValue2
+70545>>>>>>>        Integer iMax iRange
+70545>>>>>>>        DateTime dt1 dt2
+70545>>>>>>>        Get pbMultiSelect to bMulti
+70546>>>>>>>        Get pdSeedValue to dValue
+70547>>>>>>>        If (not(bMulti)) Begin
+70549>>>>>>>            // if no date, use current date
+70549>>>>>>>            If (dValue=0) Begin
+70551>>>>>>>                Move (CurrentDateTime()) to dValue
+70552>>>>>>>            End
+70552>>>>>>>>
+70552>>>>>>>            Send SetSelectedDate dValue
+70553>>>>>>>        End
+70553>>>>>>>>
+70553>>>>>>>        Else Begin
+70554>>>>>>>            Get pdSeedValue2 to dValue2
+70555>>>>>>>            // if no dates, use current date
+70555>>>>>>>            If (dValue=0 and dValue2=0) Begin
+70557>>>>>>>                Move (CurrentDateTime()) to dValue
+70558>>>>>>>            End
+70558>>>>>>>>
+70558>>>>>>>            // if only one date, make that the range
+70558>>>>>>>            If (dValue=0) Begin
+70560>>>>>>>                Move dValue2 to dValue
+70561>>>>>>>            End
+70561>>>>>>>>
+70561>>>>>>>            Else If (dValue2=0) Begin
+70564>>>>>>>                Move dValue to dValue2
+70565>>>>>>>            End
+70565>>>>>>>>
+70565>>>>>>>            
+70565>>>>>>>            // test for valid range
+70565>>>>>>>            Get piMaxSelectedCount to iMax
+70566>>>>>>>            Move dValue to dt1
+70567>>>>>>>            Move dValue2 to dt2
+70568>>>>>>>            Move (SpanTotalDays(dt1 - dt2)) to iRange
+70569>>>>>>>            If (iRange>iMax) Begin
+70571>>>>>>>                Error DFERR_OPERATOR (SFormat(C_$DateRangeExceeded,iMax))
+70572>>>>>>>>
+70572>>>>>>>                Move dValue to dValue2
+70573>>>>>>>            End
+70573>>>>>>>>
+70573>>>>>>>            
+70573>>>>>>>            Send SetSelectedDateRange dValue dValue2
+70574>>>>>>>        End
+70574>>>>>>>>
+70574>>>>>>>    End_Procedure
+70575>>>>>>>    
+70575>>>>>>>    Procedure OnDoubleClick
+70577>>>>>>>        Integer eSelectOn
+70577>>>>>>>        Get peMouseSelectOk to eSelectOn
+70578>>>>>>>        If (eSelectOn=msoDblClick) Begin
+70580>>>>>>>            Send Ok
+70581>>>>>>>        End
+70581>>>>>>>>
+70581>>>>>>>    End_Procedure
+70582>>>>>>>    
+70582>>>>>>>    Procedure OnClick
+70584>>>>>>>        Integer eSelectOn
+70584>>>>>>>        Get peMouseSelectOk to eSelectOn
+70585>>>>>>>        If (eSelectOn=msoClick) Begin
+70587>>>>>>>            Send Ok
+70588>>>>>>>        End
+70588>>>>>>>>
+70588>>>>>>>    End_Procedure
+70589>>>>>>>    
+70589>>>>>>>    Procedure Ok Returns Integer
+70591>>>>>>>        Send ClosePrompt
+70592>>>>>>>    End_Procedure
+70593>>>>>>>    
+70593>>>>>>>    Procedure Cancel Returns Integer
+70595>>>>>>>        Send Close_Panel
+70596>>>>>>>    End_Procedure
+70597>>>>>>>    
+70597>>>>>>>End_Class
+70598>>>>>Use Dfclient.pkg
+70598>>>>>
+70598>>>>>Cd_Popup_Object oMonthCalendarPrompt is a ModalPanel
+70616>>>>>>
+70616>>>>>    Set Location to 10 10
+70617>>>>>    Set Size to 145 145
+70618>>>>>    // resizable
+70618>>>>>    Set Border_Style to Border_Thick
+70619>>>>>    
+70619>>>>>    Set Label to C_$DateSelector
+70620>>>>>    
+70620>>>>>    Set piMinSize to 0 0 // set this dynamically // 145 145
+70621>>>>>    Set piMaxSize to 310 460
+70622>>>>>    
+70622>>>>>    // tells us if this been activated and sized yet
+70622>>>>>    Property Boolean pbSizeInited False
+70624>>>>>    
+70624>>>>>    Object oCalendar is a cMonthCalendarPrompt
+70626>>>>>        Set Size to 120 135 // not real size, will be assigned
+70627>>>>>        Set Location to 5 5
+70628>>>>>        Set Border_Style to Border_None
+70629>>>>>    End_Object
+70630>>>>>    
+70630>>>>>    Object oOKButton is a Button
+70632>>>>>        Set Label to C_$OK
+70633>>>>>        Set Default_State to True
+70634>>>>>        Set Location to 129 34
+70635>>>>>        Set peAnchors to anBottomRight
+70636>>>>>        
+70636>>>>>        Procedure OnClick
+70639>>>>>            Send Ok of oCalendar
+70640>>>>>        End_Procedure
+70641>>>>>    End_Object
+70642>>>>>    
+70642>>>>>    Object oCancelButton is a Button
+70644>>>>>        Set Label to C_$Cancel
+70645>>>>>        Set Location to 129 89
+70646>>>>>        Set peAnchors to anBottomRight
+70647>>>>>        
+70647>>>>>        Procedure OnClick
+70650>>>>>            Send Cancel of oCalendar
+70651>>>>>        End_Procedure
+70652>>>>>    End_Object
+70653>>>>>    
+70653>>>>>    Procedure OnResize
+70656>>>>>        Integer iSize iHeight iWidth iMinSize
+70656>>>>>        Boolean bInited
+70656>>>>>        
+70656>>>>>        Get piMinHeight of oCalendar to iHeight
+70657>>>>>        // when 0, the control has not yet been created. Nothing to do.
+70657>>>>>        If (iHeight=0) Begin
+70659>>>>>            Procedure_Return
+70660>>>>>        End
+70660>>>>>>
+70660>>>>>        
+70660>>>>>        Get pbSizeInited to bInited
+70661>>>>>        
+70661>>>>>        Get piMinWidth of oCalendar to iWidth
+70662>>>>>        Get piMinSize to iMinSize
+70663>>>>>        // Minumum size of panel - add 1 to each to each for wiggle room
+70663>>>>>        Move (iHeight+25+1) to iHeight
+70664>>>>>        Move (iWidth+10+1) to iWidth
+70665>>>>>        
+70665>>>>>        Set piMinSize to iHeight iWidth
+70666>>>>>        
+70666>>>>>        If (not(bInited))  Begin
+70668>>>>>            Set Size to iHeight iWidth
+70669>>>>>            Set pbSizeInited to True
+70670>>>>>        End
+70670>>>>>>
+70670>>>>>        Else Begin
+70671>>>>>            Send Adjust_Logicals
+70672>>>>>            Get Size to iSize
+70673>>>>>            If (Hi(iSize)<iHeight or Low(iSize)<iWidth) Begin
+70675>>>>>                Set Size to (iHeight max Hi(iSize)) (iWidth max Low(iSize))
+70676>>>>>                Get Size to iSize
+70677>>>>>            End
+70677>>>>>>
+70677>>>>>            Set Size of oCalendar to (Hi(iSize) - 25) (Low(iSize) - 10)
+70678>>>>>        End
+70678>>>>>>
+70678>>>>>        
+70678>>>>>    End_Procedure
+70679>>>>>    
+70679>>>>>    Procedure Add_Focus Handle hoParent Returns Integer
+70682>>>>>        Forward Send Add_Focus hoParent
+70684>>>>>        Send OnResize
+70685>>>>>    End_Procedure
+70686>>>>>    
+70686>>>>>    On_Key kCancel Send KeyAction to oCancelButton
+70687>>>>>    
+70687>>>>>Cd_End_Object
+70689>>>>>>
+70689>>>>>
+70689>>>
+70689>>>ACTIVATE_VIEW Activate_oPageHeaderEntry FOR oPageHeaderEntry
+70699>>>>
+70699>>>Object oPageHeaderEntry is a dbView
+70701>>>    Set Location to 5 5
+70702>>>    Set Size to 107 420
+70703>>>    Set Label To "PageHeaderEntry"
+70704>>>    Set Border_Style to Border_Thick
+70705>>>
+70705>>>
+70705>>>    Object oEmployee_DD is a cEmployeeDataDictionary
+70707>>>    End_Object 
+70708>>>
+70708>>>    Object oLine_DD is a cLineDataDictionary
+70710>>>    End_Object 
+70711>>>
+70711>>>    Object oPageHeader_DD is a cPageHeaderDataDictionary
+70713>>>        Set DDO_Server To oEmployee_DD
+70714>>>        Set DDO_Server To oLine_DD
+70715>>>    End_Object 
+70716>>>
+70716>>>    Set Main_DD To oPageHeader_DD
+70717>>>    Set Server  To oPageHeader_DD
+70718>>>
+70718>>>
+70718>>>
+70718>>>    Object oPageHeaderid is a dbForm
+70720>>>        Entry_Item PageHeader.id
+70721>>>        Set Size to 12 34
+70722>>>        Set Location to 5 21
+70723>>>        Set peAnchors to anTopLeftRight
+70724>>>        Set Label to "id"
+70725>>>        Set Label_Justification_mode to jMode_Left
+70726>>>        Set Label_Col_Offset to 16
+70727>>>        Set Label_row_Offset to 0
+70728>>>    End_Object 
+70729>>>
+70729>>>    Object oEmployeeid is a dbForm
+70731>>>        Entry_Item Employee.id
+70732>>>        Set Size to 12 34
+70733>>>        Set Location to 5 101
+70734>>>        Set peAnchors to anTopRight
+70735>>>        Set Label to "employee id"
+70736>>>        Set Label_Justification_mode to jMode_Left
+70737>>>        Set Label_Col_Offset to 41
+70738>>>        Set Label_row_Offset to 0
+70739>>>    End_Object 
+70740>>>
+70740>>>    Object oLineid is a dbForm
+70742>>>        Entry_Item Line.id
+70743>>>        Set Size to 12 34
+70744>>>        Set Location to 5 161
+70745>>>        Set peAnchors to anTopRight
+70746>>>        Set Label to "line id"
+70747>>>        Set Label_Justification_mode to jMode_Left
+70748>>>        Set Label_Col_Offset to 21
+70749>>>        Set Label_row_Offset to 0
+70750>>>    End_Object 
+70751>>>
+70751>>>    Object oPageHeaderdate is a dbForm
+70753>>>        Entry_Item PageHeader.date
+70754>>>        Set Size to 12 66
+70755>>>        Set Location to 19 21
+70756>>>        Set peAnchors to anTopLeftRight
+70757>>>        Set Label to "date"
+70758>>>        Set Label_Justification_mode to jMode_Left
+70759>>>        Set Label_Col_Offset to 16
+70760>>>        Set Label_row_Offset to 0
+70761>>>        Set Prompt_Object to oMonthCalendarPrompt
+70762>>>        Set Prompt_Button_Mode to PB_PromptOn
+70763>>>        Procedure OnExitObject
+70766>>>            Date dDateSelected
+70766>>>            
+70766>>>            Get File_Field_Current_Value of oPageHeader_DD File_Field PageHeader.Date to dDateSelected
+70767>>>            
+70767>>>            If (dDateSelected < "1/1/2020" or dDateSelected > "1/2/2023" ) Begin
+70769>>>                Send Info_Box "Date must be between 1/1/2020 and 31/12/2022"
+70770>>>            End
+70770>>>>
+70770>>>            
+70770>>>        End_Procedure
+70771>>>    End_Object 
+70772>>>
+70772>>>    Object oPageHeaderhours is a dbForm
+70774>>>        Entry_Item PageHeader.hours
+70775>>>        Set Size to 12 34
+70776>>>        Set Location to 19 112
+70777>>>        Set peAnchors to anTopRight
+70778>>>        Set Label to "hours"
+70779>>>        Set Label_Justification_mode to jMode_Left
+70780>>>        Set Label_Col_Offset to 20
+70781>>>        Set Label_row_Offset to 0
+70782>>>    End_Object 
+70783>>>
+70783>>>    Object oTabDialog is a dbTabDialog
+70785>>>        Set Size to 61 410
+70786>>>        Set Location to 41 5
+70787>>>        Set peAnchors to anTopLeftRight
+70788>>>
+70788>>>        Object oTabPage1 is a dbTabPage
+70790>>>            Set Label to "Tab Page Label"
+70791>>>
+70791>>>            Object oLinetype is a dbForm
+70793>>>                Entry_Item Line.type
+70794>>>                Set Size to 12 250
+70795>>>                Set Location to 10 25
+70796>>>                Set peAnchors to anTopLeftRight
+70797>>>                Set Label to "type"
+70798>>>                Set Label_Justification_mode to jMode_Left
+70799>>>                Set Label_Col_Offset to 20
+70800>>>                Set Label_row_Offset to 0
+70801>>>            End_Object 
+70802>>>
+70802>>>            Object oEmployeename is a dbForm
+70804>>>                Entry_Item Employee.name
+70805>>>                Set Size to 12 250
+70806>>>                Set Location to 24 25
+70807>>>                Set peAnchors to anTopLeftRight
+70808>>>                Set Label to "name"
+70809>>>                Set Label_Justification_mode to jMode_Left
+70810>>>                Set Label_Col_Offset to 20
+70811>>>                Set Label_row_Offset to 0
+70812>>>            End_Object 
+70813>>>
+70813>>>            Object oEmployeeid_card is a dbForm
+70815>>>                Entry_Item Employee.id_card
+70816>>>                Set Size to 12 96
+70817>>>                Set Location to 24 304
+70818>>>                Set peAnchors to anTopRight
+70819>>>                Set Label to "id card"
+70820>>>                Set Label_Justification_mode to jMode_Left
+70821>>>                Set Label_Col_Offset to 24
+70822>>>                Set Label_row_Offset to 0
+70823>>>            End_Object 
+70824>>>
+70824>>>        End_Object 
+70825>>>
+70825>>>    End_Object 
+70826>>>
+70826>>>
+70826>>>End_Object 
+70827>        Use ShoeEntry.vw
+Including file: ShoeEntry.vw    (C:\Users\bades\Documents\GitHub\jubilant-octo-umbrella\AppSrc\ShoeEntry.vw)
+70827>>>// C:\DataFlex Projects\ShoeFactory\AppSrc\ShoeEntry.vw
+70827>>>// ShoeEntry
+70827>>>//
+70827>>>
+70827>>>Use DFClient.pkg
+70827>>>Use DFEntry.pkg
+70827>>>
+70827>>>Use cShoeDataDictionary.dd
+Including file: cShoeDataDictionary.dd    (C:\Users\bades\Documents\GitHub\jubilant-octo-umbrella\DDSrc\cShoeDataDictionary.dd)
+70827>>>>>Use DataDict.pkg
+70827>>>>>
+70827>>>>>Open Shoe
+Including file: Shoe.fd    (C:\Users\bades\Documents\GitHub\jubilant-octo-umbrella\DDSrc\Shoe.fd)
+70829>>>>>Open system
+70831>>>>>Open PageFooter
+70833>>>>>
+70833>>>>>Register_Object Shoe_sl
+70833>>>>>
+70833>>>>>Class cShoeDataDictionary is a DataDictionary
+70834>>>>>    
+70834>>>>>    Procedure Construct_Object
+70836>>>>>        Forward Send Construct_Object
+70838>>>>>        Set Main_File to Shoe.File_Number
+70839>>>>>
+70839>>>>>        Set Add_Client_File to PageFooter.File_Number
+70840>>>>>
+70840>>>>>        Set Add_System_File to system.File_Number DD_Lock_On_All
+70841>>>>>
+70841>>>>>        Set Foreign_Field_Option DD_KEYFIELD DD_NOPUT to True
+70842>>>>>        Set Foreign_Field_Option DD_KEYFIELD DD_FINDREQ to True
+70843>>>>>        Set Foreign_Field_Option DD_INDEXFIELD DD_NOPUT to True
+70844>>>>>        Set Foreign_Field_Option DD_DEFAULT DD_DISPLAYONLY to True
+70845>>>>>
+70845>>>>>        Set Field_Auto_Increment Field Shoe.id to File_Field system.shoe_id
+70846>>>>>        Set Field_Prompt_Object Field Shoe.id to Shoe_sl
+70847>>>>>
+70847>>>>>        Set Field_Prompt_Object Field Shoe.name to Shoe_sl
+70848>>>>>
+70848>>>>>        Set Field_Prompt_Object Field Shoe.price to Shoe_sl
+70849>>>>>
+70849>>>>>    End_Procedure
+70850>>>>>
+70850>>>>>End_Class
+70851>>>>>
+70851>>>>>Use Shoe.sl
+Including file: Shoe.sl    (C:\Users\bades\Documents\GitHub\jubilant-octo-umbrella\AppSrc\Shoe.sl)
+70851>>>>>>>// Shoe.sl
+70851>>>>>>>// Shoe Lookup List
+70851>>>>>>>
+70851>>>>>>>Use DFClient.pkg
+70851>>>>>>>Use cDbCJGridPromptList.pkg
+70851>>>>>>>Use cDbCJGridColumn.pkg
+70851>>>>>>>Use Windows.pkg
+70851>>>>>>>
+70851>>>>>>>Use cShoeDataDictionary.dd
+70851>>>>>>>
+70851>>>>>>>CD_Popup_Object Shoe_sl is a dbModalPanel
+70869>>>>>>>>
+70869>>>>>>>    Set Location to 5 5
+70870>>>>>>>    Set Size to 134 272
+70871>>>>>>>    Set Label To "Shoe Lookup List"
+70872>>>>>>>    Set Border_Style to Border_Thick
+70873>>>>>>>    Set Minimize_Icon to False
+70874>>>>>>>
+70874>>>>>>>
+70874>>>>>>>    Object oShoe_DD is a cShoeDataDictionary
+70876>>>>>>>    End_Object 
+70877>>>>>>>
+70877>>>>>>>    Set Main_DD To oShoe_DD
+70878>>>>>>>    Set Server  To oShoe_DD
+70879>>>>>>>
+70879>>>>>>>
+70879>>>>>>>
+70879>>>>>>>    Object oSelList is a cDbCJGridPromptList
+70881>>>>>>>        Set Size to 105 262
+70882>>>>>>>        Set Location to 5 5
+70883>>>>>>>        Set peAnchors to anAll
+70884>>>>>>>        Set psLayoutSection to "Shoe_sl_oSelList"
+70885>>>>>>>        Set Ordering to 1
+70886>>>>>>>        Set pbAutoServer to True
+70887>>>>>>>
+70887>>>>>>>        Object oShoe_id is a cDbCJGridColumn
+70889>>>>>>>            Entry_Item Shoe.id
+70890>>>>>>>            Set piWidth to 60
+70891>>>>>>>            Set psCaption to "id"
+70892>>>>>>>        End_Object 
+70893>>>>>>>
+70893>>>>>>>        Object oShoe_name is a cDbCJGridColumn
+70895>>>>>>>            Entry_Item Shoe.name
+70896>>>>>>>            Set piWidth to 250
+70897>>>>>>>            Set psCaption to "name"
+70898>>>>>>>        End_Object 
+70899>>>>>>>
+70899>>>>>>>        Object oShoe_price is a cDbCJGridColumn
+70901>>>>>>>            Entry_Item Shoe.price
+70902>>>>>>>            Set piWidth to 110
+70903>>>>>>>            Set psCaption to "price"
+70904>>>>>>>        End_Object 
+70905>>>>>>>
+70905>>>>>>>
+70905>>>>>>>    End_Object 
+70906>>>>>>>
+70906>>>>>>>    Object oOk_bn is a Button
+70908>>>>>>>        Set Label to "&Ok"
+70909>>>>>>>        Set Location to 115 109
+70910>>>>>>>        Set peAnchors to anBottomRight
+70911>>>>>>>
+70911>>>>>>>        Procedure OnClick
+70914>>>>>>>            Send OK of oSelList
+70915>>>>>>>        End_Procedure
+70916>>>>>>>
+70916>>>>>>>    End_Object 
+70917>>>>>>>
+70917>>>>>>>    Object oCancel_bn is a Button
+70919>>>>>>>        Set Label to "&Cancel"
+70920>>>>>>>        Set Location to 115 163
+70921>>>>>>>        Set peAnchors to anBottomRight
+70922>>>>>>>
+70922>>>>>>>        Procedure OnClick
+70925>>>>>>>            Send Cancel of oSelList
+70926>>>>>>>        End_Procedure
+70927>>>>>>>
+70927>>>>>>>    End_Object 
+70928>>>>>>>
+70928>>>>>>>    Object oSearch_bn is a Button
+70930>>>>>>>        Set Label to "&Search..."
+70931>>>>>>>        Set Location to 115 217
+70932>>>>>>>        Set peAnchors to anBottomRight
+70933>>>>>>>
+70933>>>>>>>        Procedure OnClick
+70936>>>>>>>            Send Search of oSelList
+70937>>>>>>>        End_Procedure
+70938>>>>>>>
+70938>>>>>>>    End_Object 
+70939>>>>>>>
+70939>>>>>>>    On_Key Key_Alt+Key_O Send KeyAction of oOk_bn
+70940>>>>>>>    On_Key Key_Alt+Key_C Send KeyAction of oCancel_bn
+70941>>>>>>>    On_Key Key_Alt+Key_S Send KeyAction of oSearch_bn
+70942>>>>>>>
+70942>>>>>>>
+70942>>>>>>>CD_End_Object // Shoe_sl
+70944>>>>>>>>
+70944>>>
+70944>>>ACTIVATE_VIEW Activate_oShoeEntry FOR oShoeEntry
+70954>>>>
+70954>>>Object oShoeEntry is a dbView
+70956>>>    Set Location to 5 5
+70957>>>    Set Size to 22 430
+70958>>>    Set Label To "ShoeEntry"
+70959>>>    Set Border_Style to Border_Thick
+70960>>>
+70960>>>
+70960>>>    Object oShoe_DD is a cShoeDataDictionary
+70962>>>    End_Object 
+70963>>>
+70963>>>    Set Main_DD To oShoe_DD
+70964>>>    Set Server  To oShoe_DD
+70965>>>
+70965>>>
+70965>>>
+70965>>>    Object oShoeid is a dbForm
+70967>>>        Entry_Item Shoe.id
+70968>>>        Set Size to 12 42
+70969>>>        Set Location to 5 13
+70970>>>        Set peAnchors to anTopLeftRight
+70971>>>        Set Label to "id"
+70972>>>        Set Label_Justification_mode to jMode_Left
+70973>>>        Set Label_Col_Offset to 8
+70974>>>        Set Label_row_Offset to 0
+70975>>>    End_Object 
+70976>>>
+70976>>>    Object oShoename is a dbForm
+70978>>>        Entry_Item Shoe.name
+70979>>>        Set Size to 12 250
+70980>>>        Set Location to 5 80
+70981>>>        Set peAnchors to anTopRight
+70982>>>        Set Label to "name"
+70983>>>        Set Label_Justification_mode to jMode_Left
+70984>>>        Set Label_Col_Offset to 20
+70985>>>        Set Label_row_Offset to 0
+70986>>>    End_Object 
+70987>>>
+70987>>>    Object oShoeprice is a dbForm
+70989>>>        Entry_Item Shoe.price
+70990>>>        Set Size to 12 72
+70991>>>        Set Location to 5 353
+70992>>>        Set peAnchors to anTopRight
+70993>>>        Set Label to "price"
+70994>>>        Set Label_Justification_mode to jMode_Left
+70995>>>        Set Label_Col_Offset to 18
+70996>>>        Set Label_row_Offset to 0
+70997>>>    End_Object 
+70998>>>
+70998>>>
+70998>>>End_Object 
+70999>        Use PageFooterEntry.vw
+Including file: PageFooterEntry.vw    (C:\Users\bades\Documents\GitHub\jubilant-octo-umbrella\AppSrc\PageFooterEntry.vw)
+70999>>>// C:\DataFlex Projects\ShoeFactory\AppSrc\PageFooterEntry.vw
+70999>>>// PageFooterEntry
+70999>>>//
+70999>>>
+70999>>>Use DFClient.pkg
+70999>>>Use DFEntry.pkg
+70999>>>Use DfTabDlg.pkg
+70999>>>
+70999>>>Use cEmployeeDataDictionary.dd
+70999>>>Use cLineDataDictionary.dd
+70999>>>Use cPageHeaderDataDictionary.dd
+70999>>>Use cShoeDataDictionary.dd
+70999>>>Use cPageFooterDataDictionary.dd
+Including file: cPageFooterDataDictionary.dd    (C:\Users\bades\Documents\GitHub\jubilant-octo-umbrella\DDSrc\cPageFooterDataDictionary.dd)
+70999>>>>>Use DataDict.pkg
+70999>>>>>
+70999>>>>>Open PageFooter
+71001>>>>>Open PageHeader
+71003>>>>>Open Shoe
+71005>>>>>Open system
+71007>>>>>
+71007>>>>>Register_Object PageFooter_sl
+71007>>>>>
+71007>>>>>Class cPageFooterDataDictionary is a DataDictionary
+71008>>>>>    
+71008>>>>>    Procedure Construct_Object
+71010>>>>>        Forward Send Construct_Object
+71012>>>>>        Set Main_File to PageFooter.File_Number
+71013>>>>>
+71013>>>>>        Set Add_System_File to system.File_Number DD_Lock_On_All
+71014>>>>>
+71014>>>>>        Set Add_Server_File to PageHeader.File_Number
+71015>>>>>        Set Add_Server_File to Shoe.File_Number
+71016>>>>>
+71016>>>>>        Set Foreign_Field_Option DD_KEYFIELD DD_NOPUT to True
+71017>>>>>        Set Foreign_Field_Option DD_KEYFIELD DD_FINDREQ to True
+71018>>>>>        Set Foreign_Field_Option DD_INDEXFIELD DD_NOPUT to True
+71019>>>>>        Set Foreign_Field_Option DD_DEFAULT DD_DISPLAYONLY to True
+71020>>>>>
+71020>>>>>        Set Field_Auto_Increment Field PageFooter.id to File_Field system.page_footer_id
+71021>>>>>        Set Field_Prompt_Object Field PageFooter.id to PageFooter_sl
+71022>>>>>
+71022>>>>>    End_Procedure
+71023>>>>>
+71023>>>>>End_Class
+71024>>>>>
+71024>>>>>Use PageFooter.sl
+Including file: PageFooter.sl    (C:\Users\bades\Documents\GitHub\jubilant-octo-umbrella\AppSrc\PageFooter.sl)
+71024>>>>>>>// PageFooter.sl
+71024>>>>>>>// PageFooter Lookup List
+71024>>>>>>>
+71024>>>>>>>Use DFClient.pkg
+71024>>>>>>>Use cDbCJGridPromptList.pkg
+71024>>>>>>>Use cDbCJGridColumn.pkg
+71024>>>>>>>Use Windows.pkg
+71024>>>>>>>
+71024>>>>>>>Use cEmployeeDataDictionary.dd
+71024>>>>>>>Use cLineDataDictionary.dd
+71024>>>>>>>Use cPageHeaderDataDictionary.dd
+71024>>>>>>>Use cShoeDataDictionary.dd
+71024>>>>>>>Use cPageFooterDataDictionary.dd
+71024>>>>>>>
+71024>>>>>>>CD_Popup_Object PageFooter_sl is a dbModalPanel
+71042>>>>>>>>
+71042>>>>>>>    Set Location to 5 5
+71043>>>>>>>    Set Size to 134 141
+71044>>>>>>>    Set Label To "PageFooter Lookup List"
+71045>>>>>>>    Set Border_Style to Border_Thick
+71046>>>>>>>    Set Minimize_Icon to False
+71047>>>>>>>
+71047>>>>>>>
+71047>>>>>>>    Object oEmployee_DD is a cEmployeeDataDictionary
+71049>>>>>>>    End_Object 
+71050>>>>>>>
+71050>>>>>>>    Object oLine_DD is a cLineDataDictionary
+71052>>>>>>>    End_Object 
+71053>>>>>>>
+71053>>>>>>>    Object oPageHeader_DD is a cPageHeaderDataDictionary
+71055>>>>>>>        Set DDO_Server To oEmployee_DD
+71056>>>>>>>        Set DDO_Server To oLine_DD
+71057>>>>>>>    End_Object 
+71058>>>>>>>
+71058>>>>>>>    Object oShoe_DD is a cShoeDataDictionary
+71060>>>>>>>    End_Object 
+71061>>>>>>>
+71061>>>>>>>    Object oPageFooter_DD is a cPageFooterDataDictionary
+71063>>>>>>>        Set DDO_Server To oPageHeader_DD
+71064>>>>>>>        Set DDO_Server To oShoe_DD
+71065>>>>>>>    End_Object 
+71066>>>>>>>
+71066>>>>>>>    Set Main_DD To oPageFooter_DD
+71067>>>>>>>    Set Server  To oPageFooter_DD
+71068>>>>>>>
+71068>>>>>>>
+71068>>>>>>>
+71068>>>>>>>    Object oSelList is a cDbCJGridPromptList
+71070>>>>>>>        Set Size to 105 131
+71071>>>>>>>        Set Location to 5 5
+71072>>>>>>>        Set peAnchors to anAll
+71073>>>>>>>        Set psLayoutSection to "PageFooter_sl_oSelList"
+71074>>>>>>>        Set Ordering to 1
+71075>>>>>>>        Set pbAutoServer to True
+71076>>>>>>>
+71076>>>>>>>        Object oPageFooter_id is a cDbCJGridColumn
+71078>>>>>>>            Entry_Item PageFooter.id
+71079>>>>>>>            Set piWidth to 46
+71080>>>>>>>            Set psCaption to "id"
+71081>>>>>>>        End_Object 
+71082>>>>>>>
+71082>>>>>>>        Object oPageHeader_id is a cDbCJGridColumn
+71084>>>>>>>            Entry_Item PageHeader.id
+71085>>>>>>>            Set piWidth to 95
+71086>>>>>>>            Set psCaption to "page header id"
+71087>>>>>>>        End_Object 
+71088>>>>>>>
+71088>>>>>>>        Object oShoe_id is a cDbCJGridColumn
+71090>>>>>>>            Entry_Item Shoe.id
+71091>>>>>>>            Set piWidth to 60
+71092>>>>>>>            Set psCaption to "shoe id"
+71093>>>>>>>        End_Object 
+71094>>>>>>>
+71094>>>>>>>
+71094>>>>>>>    End_Object 
+71095>>>>>>>
+71095>>>>>>>    Object oOk_bn is a Button
+71097>>>>>>>        Set Label to "&Ok"
+71098>>>>>>>        Set Location to 115 -22
+71099>>>>>>>        Set peAnchors to anBottomRight
+71100>>>>>>>
+71100>>>>>>>        Procedure OnClick
+71103>>>>>>>            Send OK of oSelList
+71104>>>>>>>        End_Procedure
+71105>>>>>>>
+71105>>>>>>>    End_Object 
+71106>>>>>>>
+71106>>>>>>>    Object oCancel_bn is a Button
+71108>>>>>>>        Set Label to "&Cancel"
+71109>>>>>>>        Set Location to 115 32
+71110>>>>>>>        Set peAnchors to anBottomRight
+71111>>>>>>>
+71111>>>>>>>        Procedure OnClick
+71114>>>>>>>            Send Cancel of oSelList
+71115>>>>>>>        End_Procedure
+71116>>>>>>>
+71116>>>>>>>    End_Object 
+71117>>>>>>>
+71117>>>>>>>    Object oSearch_bn is a Button
+71119>>>>>>>        Set Label to "&Search..."
+71120>>>>>>>        Set Location to 115 86
+71121>>>>>>>        Set peAnchors to anBottomRight
+71122>>>>>>>
+71122>>>>>>>        Procedure OnClick
+71125>>>>>>>            Send Search of oSelList
+71126>>>>>>>        End_Procedure
+71127>>>>>>>
+71127>>>>>>>    End_Object 
+71128>>>>>>>
+71128>>>>>>>    On_Key Key_Alt+Key_O Send KeyAction of oOk_bn
+71129>>>>>>>    On_Key Key_Alt+Key_C Send KeyAction of oCancel_bn
+71130>>>>>>>    On_Key Key_Alt+Key_S Send KeyAction of oSearch_bn
+71131>>>>>>>
+71131>>>>>>>
+71131>>>>>>>CD_End_Object // PageFooter_sl
+71133>>>>>>>>
+71133>>>
+71133>>>ACTIVATE_VIEW Activate_oPageFooterEntry FOR oPageFooterEntry
+71143>>>>
+71143>>>Object oPageFooterEntry is a dbView
+71145>>>    Set Location to 5 5
+71146>>>    Set Size to 79 445
+71147>>>    Set Label To "PageFooterEntry"
+71148>>>    Set Border_Style to Border_Thick
+71149>>>
+71149>>>
+71149>>>    Object oEmployee_DD is a cEmployeeDataDictionary
+71151>>>    End_Object 
+71152>>>
+71152>>>    Object oLine_DD is a cLineDataDictionary
+71154>>>    End_Object 
+71155>>>
+71155>>>    Object oPageHeader_DD is a cPageHeaderDataDictionary
+71157>>>        Set DDO_Server To oEmployee_DD
+71158>>>        Set DDO_Server To oLine_DD
+71159>>>    End_Object 
+71160>>>
+71160>>>    Object oShoe_DD is a cShoeDataDictionary
+71162>>>    End_Object 
+71163>>>
+71163>>>    Object oPageFooter_DD is a cPageFooterDataDictionary
+71165>>>        Set DDO_Server To oPageHeader_DD
+71166>>>        Set DDO_Server To oShoe_DD
+71167>>>    End_Object 
+71168>>>
+71168>>>    Set Main_DD To oPageFooter_DD
+71169>>>    Set Server  To oPageFooter_DD
+71170>>>
+71170>>>
+71170>>>
+71170>>>    Object oPageFooterid is a dbForm
+71172>>>        Entry_Item PageFooter.id
+71173>>>        Set Size to 12 34
+71174>>>        Set Location to 5 13
+71175>>>        Set peAnchors to anTopLeftRight
+71176>>>        Set Label to "id"
+71177>>>        Set Label_Justification_mode to jMode_Left
+71178>>>        Set Label_Col_Offset to 8
+71179>>>        Set Label_row_Offset to 0
+71180>>>    End_Object 
+71181>>>
+71181>>>    Object oPageHeaderid is a dbForm
+71183>>>        Entry_Item PageHeader.id
+71184>>>        Set Size to 12 34
+71185>>>        Set Location to 5 119
+71186>>>        Set peAnchors to anTopRight
+71187>>>        Set Label to "page header id"
+71188>>>        Set Label_Justification_mode to jMode_Left
+71189>>>        Set Label_Col_Offset to 49
+71190>>>        Set Label_row_Offset to 0
+71191>>>    End_Object 
+71192>>>
+71192>>>    Object oShoeid is a dbForm
+71194>>>        Entry_Item Shoe.id
+71195>>>        Set Size to 12 42
+71196>>>        Set Location to 5 202
+71197>>>        Set peAnchors to anTopRight
+71198>>>        Set Label to "shoe id"
+71199>>>        Set Label_Justification_mode to jMode_Left
+71200>>>        Set Label_Col_Offset to 25
+71201>>>        Set Label_row_Offset to 0
+71202>>>    End_Object 
+71203>>>
+71203>>>    Object oTabDialog is a dbTabDialog
+71205>>>        Set Size to 47 435
+71206>>>        Set Location to 27 5
+71207>>>        Set peAnchors to anTopLeftRight
+71208>>>
+71208>>>        Object oTabPage1 is a dbTabPage
+71210>>>            Set Label to "Tab Page Label"
+71211>>>
+71211>>>            Object oPageHeaderid is a dbForm
+71213>>>                Entry_Item PageHeader.id
+71214>>>                Set Size to 12 34
+71215>>>                Set Location to 10 13
+71216>>>                Set peAnchors to anTopLeftRight
+71217>>>                Set Label to "id"
+71218>>>                Set Label_Justification_mode to jMode_Left
+71219>>>                Set Label_Col_Offset to 8
+71220>>>                Set Label_row_Offset to 0
+71221>>>            End_Object 
+71222>>>
+71222>>>            Object oEmployeeid is a dbForm
+71224>>>                Entry_Item Employee.id
+71225>>>                Set Size to 12 34
+71226>>>                Set Location to 10 93
+71227>>>                Set peAnchors to anTopRight
+71228>>>                Set Label to "employee id"
+71229>>>                Set Label_Justification_mode to jMode_Left
+71230>>>                Set Label_Col_Offset to 41
+71231>>>                Set Label_row_Offset to 0
+71232>>>            End_Object 
+71233>>>
+71233>>>            Object oLineid is a dbForm
+71235>>>                Entry_Item Line.id
+71236>>>                Set Size to 12 34
+71237>>>                Set Location to 10 153
+71238>>>                Set peAnchors to anTopRight
+71239>>>                Set Label to "line id"
+71240>>>                Set Label_Justification_mode to jMode_Left
+71241>>>                Set Label_Col_Offset to 21
+71242>>>                Set Label_row_Offset to 0
+71243>>>            End_Object 
+71244>>>
+71244>>>        End_Object 
+71245>>>
+71245>>>        Object oTabPage2 is a dbTabPage
+71247>>>            Set Label to "Tab Page Label"
+71248>>>
+71248>>>            Object oShoeid is a dbForm
+71250>>>                Entry_Item Shoe.id
+71251>>>                Set Size to 12 42
+71252>>>                Set Location to 10 13
+71253>>>                Set peAnchors to anTopLeftRight
+71254>>>                Set Label to "id"
+71255>>>                Set Label_Justification_mode to jMode_Left
+71256>>>                Set Label_Col_Offset to 8
+71257>>>                Set Label_row_Offset to 0
+71258>>>            End_Object 
+71259>>>
+71259>>>            Object oShoename is a dbForm
+71261>>>                Entry_Item Shoe.name
+71262>>>                Set Size to 12 250
+71263>>>                Set Location to 10 80
+71264>>>                Set peAnchors to anTopRight
+71265>>>                Set Label to "name"
+71266>>>                Set Label_Justification_mode to jMode_Left
+71267>>>                Set Label_Col_Offset to 20
+71268>>>                Set Label_row_Offset to 0
+71269>>>            End_Object 
+71270>>>
+71270>>>            Object oShoeprice is a dbForm
+71272>>>                Entry_Item Shoe.price
+71273>>>                Set Size to 12 72
+71274>>>                Set Location to 10 353
+71275>>>                Set peAnchors to anTopRight
+71276>>>                Set Label to "price"
+71277>>>                Set Label_Justification_mode to jMode_Left
+71278>>>                Set Label_Col_Offset to 18
+71279>>>                Set Label_row_Offset to 0
+71280>>>            End_Object 
+71281>>>
+71281>>>        End_Object 
+71282>>>
+71282>>>    End_Object 
+71283>>>
+71283>>>
+71283>>>End_Object 
+71284>
+71284>        Procedure Activate_About
+71287>            Send DoAbout "" "" "" "" ""
+71288>        End_Procedure
+71289>
+71289>    End_Object
+71290>
+71290>End_Object
+71291>
+71291>Start_UI
+71292>
 Summary
 Memory Available: 2147483646
 Total Warnings : 0
 Total Errors   : 0
-Total Symbols  : 41025
+Total Symbols  : 41360
 Total Resources: 0
-Total Commands : 70583
+Total Commands : 71291
 Total Windows  : 0
 Total Pages    : 0
-Static Data    : 399503
-Message area   : 506108
-Total Blocks   : 25470
+Static Data    : 405235
+Message area   : 511478
+Total Blocks   : 25718

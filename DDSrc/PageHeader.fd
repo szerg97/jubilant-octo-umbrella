@@ -3,3 +3,5 @@
 #REPLACE PageHeader.id |FN3,1
 #REPLACE PageHeader.employee_id |FN3,2
 #REPLACE PageHeader.line_id |FN3,3
+#REPLACE PageHeader.date |FD3,4
+#REPLACE PageHeader.hours |FN3,5
