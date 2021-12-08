@@ -176,6 +176,17 @@ Object oMain is a Panel
                         Send Activate_oPageFooterEntry3 of hoClient
                     End_Procedure
                 End_Object
+
+                Object oPageFooterEntry4MenuItem is a cCJMenuItem
+                    Set psCaption to "PageFooterEntry4"
+                    Set psTooltip to "PageFooterEntry4"
+                
+                    Procedure OnExecute Variant vCommandBarControl
+                        Handle hoClient
+                        Get Client_Id to hoClient
+                        Send Activate_oPageFooterEntry4 of hoClient
+                    End_Procedure
+                End_Object
             End_Object
             
             Object oReportMenu is a cCJMenuItem
@@ -192,6 +203,17 @@ Object oMain is a Panel
                         Handle hoClient
                         Get Client_Id to hoClient
                         Send Activate_oReportView of hoClient
+                    End_Procedure
+                End_Object
+
+                Object oReportView2MenuItem is a cCJMenuItem
+                    Set psCaption to "ReportView2"
+                    Set psTooltip to "ReportView2"
+                
+                    Procedure OnExecute Variant vCommandBarControl
+                        Handle hoClient
+                        Get Client_Id to hoClient
+                        Send Activate_oReportView2 of hoClient
                     End_Procedure
                 End_Object
             End_Object
@@ -406,6 +428,8 @@ Object oMain is a Panel
         Use PageFooterEntry2.vw
         Use PageFooterEntry3.vw
         Use ReportView.rv
+        Use PageFooterEntry4.vw
+        Use ReportView2.rv
 
         Procedure Activate_About
             Send DoAbout "" "" "" "" ""

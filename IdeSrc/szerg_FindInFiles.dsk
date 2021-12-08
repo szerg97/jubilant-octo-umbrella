@@ -4,10 +4,10 @@ Active=0
 SubDirectories=1
 WholeWordOnly=0
 SearchWhere=0
-Location=C:\DataFlex Projects\ShoeFactory\IdeSrc\szerg_FindInFiles.dsk
-[C:\DataFlex Projects\ShoeFactory\AppSrc]
+Location=C:\Users\szerg\Documents\jubilant-octo-umbrella\IdeSrc\szerg_FindInFiles.dsk
+[C:\Users\szerg\Documents\jubilant-octo-umbrella\AppSrc]
 IsEnabled=1
-[C:\DataFlex Projects\ShoeFactory\DDSrc]
+[C:\Users\szerg\Documents\jubilant-octo-umbrella\DDSrc]
 IsEnabled=1
-[C:\DataFlex Projects\ShoeFactory\AppHtml]
+[C:\Users\szerg\Documents\jubilant-octo-umbrella\AppHtml]
 IsEnabled=1

@@ -26,6 +26,8 @@ Class cPageFooterDataDictionary is a DataDictionary
         Set Field_Auto_Increment Field PageFooter.id to File_Field system.page_footer_id
         Set Field_Prompt_Object Field PageFooter.id to PageFooter_sl
 
+        Set Field_Option Field PageFooter.price DD_DISPLAYONLY to True
+
     End_Procedure
 
 End_Class
