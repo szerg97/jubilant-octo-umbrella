@@ -10,7 +10,7 @@ Use cEmployeeDataDictionary.dd
 ACTIVATE_VIEW Activate_oEmpEntry FOR oEmpEntry
 Object oEmpEntry is a dbView
     Set Location to 5 5
-    Set Size to 22 452
+    Set Size to 240 452
     Set Label To "EmpEntry"
     Set Border_Style to Border_Thick
 
@@ -57,7 +57,7 @@ Object oEmpEntry is a dbView
     End_Object
     
     Object oDetailGrid is a cDbCJGrid
-        Set Size to 229 348
+        Set Size to 447 348
         Set Location to 73 5
         Set Server to oEmployee_DD
         Set Ordering to 1

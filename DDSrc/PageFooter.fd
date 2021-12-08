@@ -3,3 +3,5 @@
 #REPLACE PageFooter.id |FN6,1
 #REPLACE PageFooter.page_header_id |FN6,2
 #REPLACE PageFooter.shoe_id |FN6,3
+#REPLACE PageFooter.price |FN6,4
+#REPLACE PageFooter.quantity |FN6,5

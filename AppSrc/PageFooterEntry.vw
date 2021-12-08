@@ -159,6 +159,44 @@ Object oPageFooterEntry is a dbView
         End_Object 
 
     End_Object 
+    
+     Object oDetailGrid is a cDbCJGrid
+        
+        Set Size to 447 348
+        Set Location to 73 5
+        Set Server to oPageFooter_DD
+        Set Ordering to 1
+        Set peAnchors to anAll
+        Set psLayoutSection to "oPageFooterEntry_oDetailGrid"
+        Set pbAllowInsertRow to False
+        Set pbHeaderPrompts to True
+        
+        
+        
+        Object oFooteridGrid is a cDbCJGridColumn
+        Entry_Item PageFooter.id
+        Set piWidth to 78
+        Set psCaption to "Footer"
+        End_Object
+        
+        
+        
+        Object oHeaderidGrid is a cDbCJGridColumn
+        Entry_Item PageFooter.page_header_id
+        Set piWidth to 115
+        Set psCaption to "Header"
+        End_Object
+        
+        
+        
+        Object oShoeidGrid is a cDbCJGridColumn
+        Entry_Item PageFooter.shoe_id
+        Set piWidth to 387
+        Set psCaption to "Shoe"
+        End_Object
 
+
+
+    End_Object
 
 End_Object 

@@ -77,6 +77,7 @@ Object oPageHeaderEntry is a dbView
         Set Label_Justification_mode to jMode_Left
         Set Label_Col_Offset to 16
         Set Label_row_Offset to 0
+        Constrain PageHeader.Date Between "1/1/2020" and "12/31/2022"
         Set Prompt_Object to oMonthCalendarPrompt
         Set Prompt_Button_Mode to PB_PromptOn
         Procedure OnExitObject

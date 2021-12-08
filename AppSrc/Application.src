@@ -154,13 +154,46 @@ Object oMain is a Panel
                         Send Activate_oPageFooterEntry of hoClient
                     End_Procedure
                 End_Object
+
+                Object oPageFooterEntry2MenuItem is a cCJMenuItem
+                    Set psCaption to "PageFooterEntry2"
+                    Set psTooltip to "PageFooterEntry2"
+                
+                    Procedure OnExecute Variant vCommandBarControl
+                        Handle hoClient
+                        Get Client_Id to hoClient
+                        Send Activate_oPageFooterEntry2 of hoClient
+                    End_Procedure
+                End_Object
+
+                Object oPageFooterEntry3MenuItem is a cCJMenuItem
+                    Set psCaption to "PageFooterEntry3"
+                    Set psTooltip to "PageFooterEntry3"
+                
+                    Procedure OnExecute Variant vCommandBarControl
+                        Handle hoClient
+                        Get Client_Id to hoClient
+                        Send Activate_oPageFooterEntry3 of hoClient
+                    End_Procedure
+                End_Object
             End_Object
             
             Object oReportMenu is a cCJMenuItem
-                Set peControlType to xtpControlPopup          
+                Set peControlType to xtpControlPopup
                 Set psCaption to "&Report"
                 Set psToolTip to "Report"
                 Set psDescription to "Available Reports"
+
+                Object oReportViewMenuItem is a cCJMenuItem
+                    Set psCaption to "ReportView"
+                    Set psTooltip to "ReportView"
+                
+                    Procedure OnExecute Variant vCommandBarControl
+                        Handle hoClient
+                        Get Client_Id to hoClient
+                        Send Activate_oReportView of hoClient
+                    End_Procedure
+                End_Object
             End_Object
 
             Object oNavigateMenu is a cCJMenuItem
@@ -370,6 +403,9 @@ Object oMain is a Panel
         Use PageHeaderEntry.vw
         Use ShoeEntry.vw
         Use PageFooterEntry.vw
+        Use PageFooterEntry2.vw
+        Use PageFooterEntry3.vw
+        Use ReportView.rv
 
         Procedure Activate_About
             Send DoAbout "" "" "" "" ""
