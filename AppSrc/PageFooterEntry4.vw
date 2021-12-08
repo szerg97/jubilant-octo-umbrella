@@ -117,6 +117,12 @@ Object oPageFooterEntry4 is a dbView
             Entry_Item Shoe.id
             Set piWidth to 60
             Set psCaption to "shoe id"
+        End_Object
+        
+        Object oShoe_price is a cDbCJGridColumn
+            Entry_Item Shoe.name
+            Set piWidth to 110
+            Set psCaption to "name"
         End_Object 
 
         Object oShoe_price is a cDbCJGridColumn

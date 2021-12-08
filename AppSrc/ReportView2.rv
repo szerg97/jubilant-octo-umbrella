@@ -34,8 +34,8 @@ Object oReportView2 is a ReportView
         Procedure OnConstrain 
             Date dStart dStop
 
-            Get pdStartdate To dStart
-            Get pdStopdate To dStop
+            Get pdStartdate to dStart
+            Get pdStopdate to dStop
 
             Case Begin
                 Case (dStart <> 0 and dStop <> 0)
@@ -111,6 +111,8 @@ Object oReportView2 is a ReportView
             Set Label_Col_Offset to 2
             Set Label_Justification_Mode to jMode_Right
             Set Form_datatype to mask_date_window
+            Set Prompt_Object to oMonthCalendarPrompt
+            Set Prompt_Button_Mode to PB_PromptOn
         End_Object 
 
         Object oSelStop is a Form
@@ -121,6 +123,8 @@ Object oReportView2 is a ReportView
             Set Label_Col_Offset to 2
             Set Label_Justification_Mode to jMode_Right
             Set Form_datatype to mask_date_window
+            Set Prompt_Object to oMonthCalendarPrompt
+            Set Prompt_Button_Mode to PB_PromptOn
         End_Object 
 
 

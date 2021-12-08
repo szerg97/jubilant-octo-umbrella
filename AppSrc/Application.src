@@ -144,39 +144,6 @@ Object oMain is a Panel
                     End_Procedure
                 End_Object
 
-                Object oPageFooterEntryMenuItem is a cCJMenuItem
-                    Set psCaption to "PageFooterEntry"
-                    Set psTooltip to "PageFooterEntry"
-                
-                    Procedure OnExecute Variant vCommandBarControl
-                        Handle hoClient
-                        Get Client_Id to hoClient
-                        Send Activate_oPageFooterEntry of hoClient
-                    End_Procedure
-                End_Object
-
-                Object oPageFooterEntry2MenuItem is a cCJMenuItem
-                    Set psCaption to "PageFooterEntry2"
-                    Set psTooltip to "PageFooterEntry2"
-                
-                    Procedure OnExecute Variant vCommandBarControl
-                        Handle hoClient
-                        Get Client_Id to hoClient
-                        Send Activate_oPageFooterEntry2 of hoClient
-                    End_Procedure
-                End_Object
-
-                Object oPageFooterEntry3MenuItem is a cCJMenuItem
-                    Set psCaption to "PageFooterEntry3"
-                    Set psTooltip to "PageFooterEntry3"
-                
-                    Procedure OnExecute Variant vCommandBarControl
-                        Handle hoClient
-                        Get Client_Id to hoClient
-                        Send Activate_oPageFooterEntry3 of hoClient
-                    End_Procedure
-                End_Object
-
                 Object oPageFooterEntry4MenuItem is a cCJMenuItem
                     Set psCaption to "PageFooterEntry4"
                     Set psTooltip to "PageFooterEntry4"
@@ -194,17 +161,6 @@ Object oMain is a Panel
                 Set psCaption to "&Report"
                 Set psToolTip to "Report"
                 Set psDescription to "Available Reports"
-
-                Object oReportViewMenuItem is a cCJMenuItem
-                    Set psCaption to "ReportView"
-                    Set psTooltip to "ReportView"
-                
-                    Procedure OnExecute Variant vCommandBarControl
-                        Handle hoClient
-                        Get Client_Id to hoClient
-                        Send Activate_oReportView of hoClient
-                    End_Procedure
-                End_Object
 
                 Object oReportView2MenuItem is a cCJMenuItem
                     Set psCaption to "ReportView2"
@@ -424,10 +380,6 @@ Object oMain is a Panel
         Use LineEntry.vw
         Use PageHeaderEntry.vw
         Use ShoeEntry.vw
-        Use PageFooterEntry.vw
-        Use PageFooterEntry2.vw
-        Use PageFooterEntry3.vw
-        Use ReportView.rv
         Use PageFooterEntry4.vw
         Use ReportView2.rv
 
